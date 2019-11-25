@@ -46,6 +46,66 @@
     background-position-x: 99px;
 }
 
+.edit .ds4 .bumper {
+    width: 99px;
+    height: 23px;
+    background: url(https://xhamrttv.github.io/skins/bumper.png) no-repeat;
+    opacity: 0;
+}
+
+.edit .bumper {
+    width: 99px;
+    height: 23px;
+    background: url(https://xhamrttv.github.io/skins/bumper.png) no-repeat;
+    opacity: 0;
+}
+
+.edit .ds4 .bumpers {
+    position: absolute;
+    width: 588px;
+    height: 23px;
+    left: 109px;
+    top: 94px;
+}
+
+.edit .bumpers {
+    position: absolute;
+    width: 588px;
+    height: 23px;
+    left: 109px;
+    top: 94px;
+}
+
+.edit .ds4 .bumper.pressed {
+    opacity: 1;
+}
+
+.edit .bumper.pressed {
+    opacity: 1;
+}
+
+.edit .ds4 .bumper.left {
+    /* -webkit-transform: rotateY(180deg); */
+    /* transform: rotateY(180deg); */
+    float: left;
+}
+
+.edit .bumper.left {
+    /* -webkit-transform: rotateY(180deg); */
+    /* transform: rotateY(180deg); */
+    float: left;
+}
+
+.edit .ds4 .bumper.right {
+    float: right;
+    transform: rotateY(180deg);
+}
+
+.edit .bumper.right {
+    float: right;
+    transform: rotateY(180deg);
+}
+
 .edit .face .ds4 {
     background: url(https://xhamrttv.github.io/skins/dpad.png);
 }
