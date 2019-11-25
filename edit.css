@@ -1,0 +1,74 @@
+.edit .controller.ds4 {
+    background: url(https://xhamrttv.github.io/skins/base.png);
+}
+
+
+.controller.edit {
+    background: url(https://xhamrttv.github.io/skins/base.png);
+}
+
+.edit .bumper .ds4 {
+    background: url(https://xhamrttv.github.io/skins/bumper.png);
+}
+
+.edit .bumper {
+    position: absolute;
+    background: url(https://xhamrttv.github.io/skins/bumper.png);
+}
+
+.edit .dpad .ds4 {
+    background: url(https://xhamrttv.github.io/skins/dpad.png);
+}
+
+.edit .dpad {
+    position: absolute;
+    background: url(https://xhamrttv.github.io/skins/dpad.png);
+}
+
+
+.edit .face .ds4 {
+    background: url(https://xhamrttv.github.io/skins/face.png);
+}
+
+
+.edit .face {
+    position: absolute;
+    background: url(https://xhamrttv.github.io/skins/face.png);
+}
+
+.edit .start .ds4 {
+    background: url(https://xhamrttv.github.io/skins/start.png);
+}
+
+.edit .start {
+    position: absolute;
+    background: url(https://xhamrttv.github.io/skins/start.png);
+}
+
+.edit .stick .ds4 {
+    background: url(https://xhamrttv.github.io/skins/sticks.png);
+}
+
+
+.edit .stick {
+    position: absolute;
+    background: url(https://xhamrttv.github.io/skins/sticks.png);
+}
+
+.edit .touchpad .ds4 {
+    background: url(https://xhamrttv.github.io/skins/touchpad.png);
+}
+
+.edit .touchpad {
+    position: absolute;
+    background: url(https://xhamrttv.github.io/skins/touchpad.png);
+}
+
+.edit .triggers .ds4 {
+    background: url(https://xhamrttv.github.io/skins/triggers.png);
+}
+
+.edit .triggers {
+    position: absolute;
+    background: url(https://xhamrttv.github.io/skins/triggers.png);
+}
