@@ -2,9 +2,48 @@
     background: url(https://xhamrttv.github.io/skins/base.png);
 }
 
-
 .controller.edit {
     background: url(https://xhamrttv.github.io/skins/base.png);
+}
+
+.edit .ds4 .triggers {
+    width: 588px;
+    height: 90px;
+    position: absolute;
+    left: 109px;
+}
+
+.edit .triggers {
+    width: 588px;
+    height: 90px;
+    position: absolute;
+    left: 109px;
+}
+
+.edit .ds4 .trigger {
+    background: url(skins/triggers.png);
+}
+
+.edit .trigger {
+    background: url(skins/triggers.png);
+}
+
+.edit .ds4 .trigger.left {
+    float: left;
+}
+
+.edit .trigger.left {
+    float: left;
+}
+
+.edit .ds4 .trigger.right {
+    float: right;
+    background-position-x: 99px;
+}
+
+.edit .trigger.right {
+    float: right;
+    background-position-x: 99px;
 }
 
 .edit .face .ds4 {
