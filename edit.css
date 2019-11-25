@@ -11,11 +11,6 @@
     background: url(https://xhamrttv.github.io/skins/bumper.png);
 }
 
-.edit .bumper {
-    position: absolute;
-    background: url(https://xhamrttv.github.io/skins/bumper.png);
-}
-
 .edit .dpad .ds4 {
     background: url(https://xhamrttv.github.io/skins/dpad.png);
 }
@@ -65,10 +60,5 @@
 }
 
 .edit .triggers .ds4 {
-    background: url(https://xhamrttv.github.io/skins/triggers.png);
-}
-
-.edit .triggers {
-    position: absolute;
     background: url(https://xhamrttv.github.io/skins/triggers.png);
 }
