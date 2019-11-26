@@ -92,6 +92,22 @@
     transform: rotateY(180deg);
 }
 
+.edit .ds4 .touchpad {
+    width: 262px;
+    height: 151px;
+    position: absolute;
+    left: 272px;
+    top: 122px;
+}
+
+.edit .touchpad {
+    width: 262px;
+    height: 151px;
+    position: absolute;
+    left: 272px;
+    top: 122px;
+}
+
 .edit .ds4 .touchpad.pressed {
     background: url(https://xhamrttv.github.io/skins/touchpad.png) no-repeat center;
 }
