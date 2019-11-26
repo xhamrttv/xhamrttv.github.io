@@ -109,11 +109,11 @@
 }
 
 .edit .ds4 .touchpad.pressed {
-    background: url(https://xhamrttv.github.io/skins/touchpad.png) no-repeat center;
+    background: url(https://xhamrttv.github.io/skins/touchpad.png);
 }
 
 .edit .touchpad.pressed {
-    background: url(https://xhamrttv.github.io/skins/touchpad.png) no-repeat center;
+    background: url(https://xhamrttv.github.io/skins/touchpad.png);
 }
 
 .edit .face .ds4 {
