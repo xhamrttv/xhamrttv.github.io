@@ -225,16 +225,10 @@
 }
 
 .edit .ds4 .button {
-    position: absolute;
-    width: 55px;
-    height: 55px;
     background: url(https://xhamrttv.github.io/skins/face.png);
 }
 
 .edit .button {
-    position: absolute;
-    width: 55px;
-    height: 55px;
     background: url(https://xhamrttv.github.io/skins/face.png);
 }
 
@@ -246,48 +240,4 @@
 .edit .button.pressed {
     background-position-y: 55px;
     /* margin-top: 5px; */
-}
-
-.edit .ds4 .a {
-    background-position: 0 0;
-    bottom: 0;
-    left: 58px;
-}
-
-.edit .a {
-    background-position: 0 0;
-    bottom: 0;
-    left: 58px;
-}
-
-.edit .ds4 .b {
-    background-position: -57px 0;
-    top: 58px;
-    right: 0px;
-}
-
-.edit .b {
-    background-position: -57px 0;
-    top: 58px;
-    right: 0px;
-}
-
-.edit .ds4 .x {
-    background-position: -113px 0;
-    top: 58px;
-}
-
-.edit .x {
-    background-position: -113px 0;
-    top: 58px;
-}
-
-.edit .ds4 .y {
-    background-position: 55px 0;
-    left: 58px;
-}
-
-.edit .y {
-    background-position: 55px 0;
-    left: 58px;
 }
