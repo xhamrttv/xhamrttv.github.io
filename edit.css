@@ -1,0 +1,185 @@
+.edit .controller.ds4 {
+    background: url(https://xhamrttv.github.io/skins/base.png);
+}
+
+.controller.edit {
+    background: url(https://xhamrttv.github.io/skins/base.png);
+}
+
+.edit .ds4 .triggers {
+    width: 588px;
+    height: 90px;
+    position: absolute;
+    left: 109px;
+}
+
+.edit .triggers {
+    width: 588px;
+    height: 90px;
+    position: absolute;
+    left: 109px;
+}
+
+.edit .ds4 .trigger {
+    background: url(https://xhamrttv.github.io/skins/triggers.png);
+}
+
+.edit .trigger {
+    background: url(https://xhamrttv.github.io/skins/triggers.png);
+}
+
+.edit .ds4 .trigger.left {
+    float: left;
+}
+
+.edit .trigger.left {
+    float: left;
+}
+
+.edit .ds4 .trigger.right {
+    float: right;
+    background-position-x: 99px;
+}
+
+.edit .trigger.right {
+    float: right;
+    background-position-x: 99px;
+}
+
+.edit .ds4 .bumper {
+    background: url(https://xhamrttv.github.io/skins/bumper.png) no-repeat;
+}
+
+.edit .bumper {
+    background: url(https://xhamrttv.github.io/skins/bumper.png) no-repeat;
+}
+
+.edit .ds4 .bumpers {
+    position: absolute;
+    width: 588px;
+    height: 23px;
+    left: 109px;
+    top: 94px;
+}
+
+.edit .bumpers {
+    position: absolute;
+    width: 588px;
+    height: 23px;
+    left: 109px;
+    top: 94px;
+}
+
+.edit .ds4 .bumper.left {
+    /* -webkit-transform: rotateY(180deg); */
+    /* transform: rotateY(180deg); */
+    float: left;
+}
+
+.edit .bumper.left {
+    /* -webkit-transform: rotateY(180deg); */
+    /* transform: rotateY(180deg); */
+    float: left;
+}
+
+.edit .ds4 .bumper.right {
+    float: right;
+    transform: rotateY(180deg);
+}
+
+.edit .bumper.right {
+    float: right;
+    transform: rotateY(180deg);
+}
+
+.edit .ds4 .touchpad {
+    width: 262px;
+    height: 151px;
+    position: absolute;
+    left: 272px;
+    top: 122px;
+}
+
+.edit .touchpad {
+    width: 262px;
+    height: 151px;
+    position: absolute;
+    left: 272px;
+    top: 122px;
+}
+
+.edit .ds4 .touchpad.pressed {
+    background: url(https://xhamrttv.github.io/skins/touchpad.png);
+}
+
+.edit .touchpad.pressed {
+    background: url(https://xhamrttv.github.io/skins/touchpad.png);
+}
+
+.edit .face .ds4 {
+    background: url(https://xhamrttv.github.io/skins/dpad.png);
+}
+
+
+.edit .face {
+    position: absolute;
+    background: url(https://xhamrttv.github.io/skins/dpad.png);
+}
+
+.edit .stick .ds4 {
+    background: url(https://xhamrttv.github.io/skins/sticks.png);
+}
+
+
+.edit .stick {
+    position: absolute;
+    background: url(https://xhamrttv.github.io/skins/sticks.png);
+}
+
+.edit .ds4 .back, .ds4 .start {
+    background: url(https://xhamrttv.github.io/skins/start.png);
+    width: 28px;
+    height: 46px;
+    opacity: 0;
+}
+
+.edit .back, .start {
+    background: url(https://xhamrttv.github.io/skins/start.png);
+    width: 28px;
+    height: 46px;
+    opacity: 0;
+}
+
+.edit .ds4 .back.pressed, .ds4 .start.pressed {
+    /* background-position-y: -21px; */
+    /* margin-top: 2px; */
+    opacity: 1;
+}
+
+.edit .back.pressed, .start.pressed {
+    /* background-position-y: -21px; */
+    /* margin-top: 2px; */
+    opacity: 1;
+}
+
+.edit .ds4 .back {
+    float: left;
+    /* width: 28px; */
+}
+
+.edit .back {
+    float: left;
+    /* width: 28px; */
+}
+
+.edit .ds4 .start {
+    float: right;
+    /* width: 28px; */
+    background-position: 28px 0;
+}
+
+.edit .start {
+    float: right;
+    /* width: 28px; */
+    background-position: 28px 0;
+}
