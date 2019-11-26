@@ -183,3 +183,27 @@
     /* width: 28px; */
     background-position: 28px 0;
 }
+
+.edit .ds4 .meta {
+    width: 42px;
+    height: 42px;
+    position: absolute;
+    left: 382px;
+    bottom: 216px;
+}
+
+.edit .meta {
+    width: 42px;
+    height: 42px;
+    position: absolute;
+    left: 382px;
+    bottom: 216px;
+}
+
+.edit .ds4 .meta.pressed {
+    background: url(https://xhamrttv.github.io/skins/meta.png) no-repeat center;
+}
+
+.edit .meta.pressed {
+    background: url(https://xhamrttv.github.io/skins/meta.png) no-repeat center;
+}
