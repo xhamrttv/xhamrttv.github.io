@@ -223,6 +223,11 @@
     background: url(https://xhamrttv.github.io/skins/face.png);
 }
 
+.edit .ds4 .button.pressed {
+    background-position-y: 55px;
+    /* margin-top: 5px; */
+}
+
 .edit .ds4 .a {
     background-position: 0 0;
     bottom: 0;
