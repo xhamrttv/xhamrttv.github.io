@@ -1,0 +1,69 @@
+/*BEGIN Xbox One Controller Styling*/
+.edit.controller.xbox {
+    background: url(xbox-assets/base.svgz);
+    height: 630px;
+    width: 750px;
+    /*    margin-left: -375px;
+        margin-top: -285px;*/
+}
+
+.edit .xbox.white {
+    background: url(xbox-assets/base-white.svgz);
+}
+
+.edit .xbox .trigger {
+    width: 88px;
+    height: 121px;
+    background: url(xbox-assets/trigger.svgz);
+    opacity: 0;
+}
+
+.edit .xbox .bumper {
+    width: 170px;
+    height: 61px;
+    background: url(xbox-assets/bumper.svgz);
+    opacity: 0;
+}
+
+.edit .xbox .quadrant {
+    position: absolute;
+    background: url(xbox-assets/quadrant.svgz);
+    height: 45px;
+    width: 45px;
+    top: 258px;
+    left: 354px;
+    z-index: 0;
+}
+
+.edit .xbox .back, .xbox .start {
+    background: url(xbox-assets/start-select.svgz);
+    width: 33px;
+    height: 33px;
+    opacity: 0;
+}
+
+.edit .xbox .button {
+    position: absolute;
+    background: url(xbox-assets/abxy.svgz);
+    width: 48px;
+    height: 48px;
+}
+
+.edit .xbox .stick {
+    position: absolute;
+    background: url(xbox-assets/stick.svgz);
+    background-position: -85px 0;
+    height: 83px;
+    width: 83px;
+}
+
+.edit .xbox .face {
+    background: url(xbox-assets/dpad.svgz);
+    position: absolute;
+    opacity: 0;
+}
+
+
+}
+
+/*END Xbox One Controller Styling*/
