@@ -203,6 +203,34 @@
     background: url(https://xhamrttv.github.io/mg_homie/stick.png);
 }
 
+.edit .xbox .stick.pressed {
+    background-position: 0 0;
+}
+
+.edit .stick.pressed {
+    background-position: 0 0;
+}
+
+.edit .xbox .stick.left {
+    top: 0;
+    left: 0;
+}
+
+.edit .stick.left {
+    top: 0;
+    left: 0;
+}
+
+.edit .xbox .stick.right {
+    top: 113px;
+    left: 288px;
+}
+
+.edit .stick.right {
+    top: 113px;
+    left: 288px;
+}
+
 .edit .xbox .face {
     background: url(https://xhamrttv.github.io/mg_homie/dpad.png);
 }
