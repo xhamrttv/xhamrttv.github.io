@@ -7,11 +7,28 @@
         margin-top: -285px;*/
 }
 
+.edit .xbox .triggers {
+    width: 446px;
+    height: 121px;
+    position: absolute;
+    left: 152px;
+}
+
 .edit .xbox .trigger {
     width: 88px;
     height: 121px;
     background: url(https://xhamrttv.github.io/mg_homie/trigger.png);
     opacity: 0;
+}
+
+.edit .xbox .trigger.left {
+    float: left;
+    background-position: 0 0;
+}
+
+.edit .xbox .trigger.right {
+    float: right;
+    transform: rotateY(180deg);
 }
 
 .edit .xbox .bumper {
