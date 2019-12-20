@@ -52,6 +52,19 @@
     opacity: 0;
 }
 
+.edit .xbox .back.pressed, .xbox .start.pressed {
+    opacity: 1;
+}
+
+.edit .xbox .back {
+    float: left;
+}
+
+.edit .xbox .start {
+    background-position: 33px 0px;
+    float: right;
+}
+
 .edit .xbox .button {
     position: absolute;
     background: url(https://xhamrttv.github.io/mg_homie/abxy.png);
