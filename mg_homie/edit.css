@@ -197,11 +197,13 @@
 
 .edit .xbox .stick {
     background: url(https://xhamrttv.github.io/mg_homie/stick.png);
+    background-position: -85px 0;
 }
 
 .edit .stick {
     position: absolute;
     background: url(https://xhamrttv.github.io/mg_homie/stick.png);
+    background-position: -85px 0;
 }
 
 .edit .xbox .face {
