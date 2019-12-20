@@ -15,10 +15,7 @@
 }
 
 .edit .xbox .trigger {
-    width: 88px;
-    height: 121px;
     background: url(https://xhamrttv.github.io/mg_homie/trigger.png);
-    opacity: 0;
 }
 
 .edit .xbox .trigger.left {
