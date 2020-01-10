@@ -1,10 +1,10 @@
 /*BEGIN Xbox One Controller Styling*/
 .edit.controller.xbox {
-    background: url(https://xhamrttv.github.io/mg_homie/base.png);
+    background: url(https://xhamrttv.github.io/dannysun/base.png);
 }
 
 .controller.edit {
-    background: url(https://xhamrttv.github.io/mg_homie/base.png);
+    background: url(https://xhamrttv.github.io/dannysun/base.png);
 }
 
 .edit .xbox .triggers {
@@ -22,11 +22,11 @@
 }
 
 .edit .xbox .trigger {
-    background: url(https://xhamrttv.github.io/mg_homie/trigger.png);
+    background: url(https://xhamrttv.github.io/dannysun/trigger.png);
 }
 
 .edit .trigger {
-    background: url(https://xhamrttv.github.io/mg_homie/trigger.png);
+    background: url(https://xhamrttv.github.io/dannysun/trigger.png);
 }
 
 .edit .xbox .trigger.left {
@@ -50,11 +50,11 @@
 }
 
 .edit .xbox .bumper {
-    background: url(https://xhamrttv.github.io/mg_homie/bumper.png);
+    background: url(https://xhamrttv.github.io/dannysun/bumper.png);
 }
 
 .edit .bumper {
-    background: url(https://xhamrttv.github.io/mg_homie/bumper.png);
+    background: url(https://xhamrttv.github.io/dannysun/bumper.png);
 }
 
 .edit .xbox .bumper.pressed {
@@ -86,19 +86,19 @@
 }
 
 .edit .xbox .quadrant {
-    background: url(https://xhamrttv.github.io/mg_homie/quadrant.png);
+    background: url(https://xhamrttv.github.io/dannysun/quadrant.png);
 }
 
 .edit .quadrant {
-    background: url(https://xhamrttv.github.io/mg_homie/quadrant.png);
+    background: url(https://xhamrttv.github.io/dannysun/quadrant.png);
 }
 
 .edit .xbox .back, .xbox .start {
-    background: url(https://xhamrttv.github.io/mg_homie/start-select.png);
+    background: url(https://xhamrttv.github.io/dannysun/start-select.png);
 }
 
 .edit .back, .start {
-    background: url(https://xhamrttv.github.io/mg_homie/start-select.png);
+    background: url(https://xhamrttv.github.io/dannysun/start-select.png);
 }
 
 .edit .xbox .back.pressed, .xbox .start.pressed {
@@ -128,11 +128,11 @@
 }
 
 .edit .xbox .button {
-    background: url(https://xhamrttv.github.io/mg_homie/abxy.png);
+    background: url(https://xhamrttv.github.io/dannysun/abxy.png);
 }
 
 .edit .button {
-    background: url(https://xhamrttv.github.io/mg_homie/abxy.png);
+    background: url(https://xhamrttv.github.io/dannysun/abxy.png);
 }
 
 .edit .xbox .button.pressed {
@@ -196,20 +196,20 @@
 }
 
 .edit .xbox .stick {
-    background: url(https://xhamrttv.github.io/mg_homie/stick.png);
+    background: url(https://xhamrttv.github.io/dannysun/stick.png);
     background-position: -85px 0;
 }
 
 .edit .stick {
     position: absolute;
-    background: url(https://xhamrttv.github.io/mg_homie/stick.png);
+    background: url(https://xhamrttv.github.io/dannysun/stick.png);
     background-position: -85px 0;
 }
 
 .edit .xbox .face {
-    background: url(https://xhamrttv.github.io/mg_homie/dpad.png);
+    background: url(https://xhamrttv.github.io/dannysun/dpad.png);
 }
 
 .edit .face {
-    background: url(https://xhamrttv.github.io/mg_homie/dpad.png);
+    background: url(https://xhamrttv.github.io/dannysun/dpad.png);
 }
