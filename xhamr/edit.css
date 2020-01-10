@@ -1,9 +1,9 @@
 .edit .controller.ds4 {
-    background: url(https://xhamrttv.github.io/skins/base.png);
+    background: url(https://xhamrttv.github.io/xhamr/base.png);
 }
 
 .controller.edit {
-    background: url(https://xhamrttv.github.io/skins/base.png);
+    background: url(https://xhamrttv.github.io/xhamr/base.png);
 }
 
 .edit .ds4 .triggers {
@@ -21,11 +21,11 @@
 }
 
 .edit .ds4 .trigger {
-    background: url(https://xhamrttv.github.io/skins/triggers.png);
+    background: url(https://xhamrttv.github.io/xhamr/triggers.png);
 }
 
 .edit .trigger {
-    background: url(https://xhamrttv.github.io/skins/triggers.png);
+    background: url(https://xhamrttv.github.io/xhamr/triggers.png);
 }
 
 .edit .ds4 .trigger.left {
@@ -47,11 +47,11 @@
 }
 
 .edit .ds4 .bumper {
-    background: url(https://xhamrttv.github.io/skins/bumper.png) no-repeat;
+    background: url(https://xhamrttv.github.io/xhamr/bumper.png) no-repeat;
 }
 
 .edit .bumper {
-    background: url(https://xhamrttv.github.io/skins/bumper.png) no-repeat;
+    background: url(https://xhamrttv.github.io/xhamr/bumper.png) no-repeat;
 }
 
 .edit .ds4 .bumpers {
@@ -109,42 +109,42 @@
 }
 
 .edit .ds4 .touchpad.pressed {
-    background: url(https://xhamrttv.github.io/skins/touchpad.png);
+    background: url(https://xhamrttv.github.io/xhamr/touchpad.png);
 }
 
 .edit .touchpad.pressed {
-    background: url(https://xhamrttv.github.io/skins/touchpad.png);
+    background: url(https://xhamrttv.github.io/xhamr/touchpad.png);
 }
 
 .edit .face .ds4 {
-    background: url(https://xhamrttv.github.io/skins/dpad.png);
+    background: url(https://xhamrttv.github.io/xhamr/dpad.png);
 }
 
 
 .edit .face {
     position: absolute;
-    background: url(https://xhamrttv.github.io/skins/dpad.png);
+    background: url(https://xhamrttv.github.io/xhamr/dpad.png);
 }
 
 .edit .stick .ds4 {
-    background: url(https://xhamrttv.github.io/skins/sticks.png);
+    background: url(https://xhamrttv.github.io/xhamr/sticks.png);
 }
 
 
 .edit .stick {
     position: absolute;
-    background: url(https://xhamrttv.github.io/skins/sticks.png);
+    background: url(https://xhamrttv.github.io/xhamr/sticks.png);
 }
 
 .edit .ds4 .back, .ds4 .start {
-    background: url(https://xhamrttv.github.io/skins/start.png);
+    background: url(https://xhamrttv.github.io/xhamr/start.png);
     width: 28px;
     height: 46px;
     opacity: 0;
 }
 
 .edit .back, .start {
-    background: url(https://xhamrttv.github.io/skins/start.png);
+    background: url(https://xhamrttv.github.io/xhamr/start.png);
     width: 28px;
     height: 46px;
     opacity: 0;
@@ -201,11 +201,11 @@
 }
 
 .edit .ds4 .meta.pressed {
-    background: url(https://xhamrttv.github.io/skins/meta.png) no-repeat center;
+    background: url(https://xhamrttv.github.io/xhamr/meta.png) no-repeat center;
 }
 
 .edit .meta.pressed {
-    background: url(https://xhamrttv.github.io/skins/meta.png) no-repeat center;
+    background: url(https://xhamrttv.github.io/xhamr/meta.png) no-repeat center;
 }
 
 .edit .abxy {
@@ -220,7 +220,7 @@
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(https://xhamrttv.github.io/skins/face.png);
+    background: url(https://xhamrttv.github.io/xhamr/face.png);
 }
 
 .edit .button.pressed {
