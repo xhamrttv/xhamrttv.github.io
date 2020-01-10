@@ -9,11 +9,11 @@
 
 /*Replaces controller base with custom asset*/
 .edit .controller.ds4 {
-    background: url(https://xhamrttv.github.io/trihouse/base.png);
+    background: url(https://xhamrttv.github.io/trihouse/meme/base.png);
 }
 
 .controller.edit {
-    background: url(https://xhamrttv.github.io/trihouse/base.png);
+    background: url(https://xhamrttv.github.io/trihouse/meme/base.png);
 }
 
 /*Triggers section requires more code than expected,
@@ -60,11 +60,11 @@ replaces the active triggers. Use strength meter for best results*/
 
 /*Replaces Bumpers with custom assets*/
 .edit .ds4 .bumper {
-    background: url(https://xhamrttv.github.io/trihouse/bumper.png) no-repeat;
+    background: url(https://xhamrttv.github.io/trihouse/meme/bumper.png) no-repeat;
 }
 
 .edit .bumper {
-    background: url(https://xhamrttv.github.io/trihouse/bumper.png) no-repeat;
+    background: url(https://xhamrttv.github.io/trihouse/meme/bumper.png) no-repeat;
 }
 
 .edit .ds4 .bumpers {
@@ -123,22 +123,22 @@ replaces the active triggers. Use strength meter for best results*/
 }
 
 .edit .ds4 .touchpad.pressed {
-    background: url(https://xhamrttv.github.io/trihouse/touchpad.png);
+    background: url(https://xhamrttv.github.io/trihouse/meme/touchpad.png);
 }
 
 .edit .touchpad.pressed {
-    background: url(https://xhamrttv.github.io/trihouse/touchpad.png);
+    background: url(https://xhamrttv.github.io/trihouse/meme/touchpad.png);
 }
 
 /*Input buttons (left)*/
 .edit .face .ds4 {
-    background: url(https://xhamrttv.github.io/trihouse/dpad.png);
+    background: url(https://xhamrttv.github.io/trihouse/meme/dpad.png);
 }
 
 
 .edit .face {
     position: absolute;
-    background: url(https://xhamrttv.github.io/trihouse/dpad.png);
+    background: url(https://xhamrttv.github.io/trihouse/meme/dpad.png);
 }
 
 /*Replaces sticks with regular and input*/
@@ -154,14 +154,14 @@ replaces the active triggers. Use strength meter for best results*/
 
 /*Replaces Options and Share button's input version*/
 .edit .ds4 .back, .ds4 .start {
-    background: url(https://xhamrttv.github.io/trihouse/start.png);
+    background: url(https://xhamrttv.github.io/trihouse/meme/start.png);
     width: 28px;
     height: 46px;
     opacity: 0;
 }
 
 .edit .back, .start {
-    background: url(https://xhamrttv.github.io/trihouse/start.png);
+    background: url(https://xhamrttv.github.io/trihouse/meme/start.png);
     width: 28px;
     height: 46px;
     opacity: 0;
@@ -219,11 +219,11 @@ replaces the active triggers. Use strength meter for best results*/
 }
 
 .edit .ds4 .meta.pressed {
-    background: url(https://xhamrttv.github.io/trihouse/meta.png) no-repeat center;
+    background: url(https://xhamrttv.github.io/trihouse/meme/meta.png) no-repeat center;
 }
 
 .edit .meta.pressed {
-    background: url(https://xhamrttv.github.io/trihouse/meta.png) no-repeat center;
+    background: url(https://xhamrttv.github.io/trihouse/meme/meta.png) no-repeat center;
 }
 
 /*Input buttons (right). Correctly positions them, and replaces both standard and input*/
@@ -239,7 +239,7 @@ replaces the active triggers. Use strength meter for best results*/
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(https://xhamrttv.github.io/trihouse/face.png);
+    background: url(https://xhamrttv.github.io/trihouse/meme/face.png);
 }
 
 .edit .button.pressed {
