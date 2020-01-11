@@ -1,0 +1,215 @@
+/*BEGIN Xbox One Controller Styling*/
+.edit.controller.xbox {
+    background: url(https://xhamrttv.github.io/dannysun/gif/base.gif);
+}
+
+.controller.edit {
+    background: url(https://xhamrttv.github.io/dannysun/gif/base.gif);
+}
+
+.edit .xbox .triggers {
+    width: 446px;
+    height: 121px;
+    position: absolute;
+    left: 152px;
+}
+
+.edit .triggers {
+    width: 446px;
+    height: 121px;
+    position: absolute;
+    left: 152px;
+}
+
+.edit .xbox .trigger {
+    background: url(https://xhamrttv.github.io/dannysun/trigger.png);
+}
+
+.edit .trigger {
+    background: url(https://xhamrttv.github.io/dannysun/trigger.png);
+}
+
+.edit .xbox .trigger.left {
+    float: left;
+    background-position: 0 0;
+}
+
+.edit .trigger.left {
+    float: left;
+    background-position: 0 0;
+}
+
+.edit .xbox .trigger.right {
+    float: right;
+    transform: rotateY(180deg);
+}
+
+.edit .trigger.right {
+    float: right;
+    transform: rotateY(180deg);
+}
+
+.edit .xbox .bumper {
+    background: url(https://xhamrttv.github.io/dannysun/bumper.png);
+}
+
+.edit .bumper {
+    background: url(https://xhamrttv.github.io/dannysun/bumper.png);
+}
+
+.edit .xbox .bumper.pressed {
+    opacity: 1;
+}
+
+.edit .bumper.pressed {
+    opacity: 1;
+}
+
+.edit .xbox .bumper.left {
+    float: left;
+}
+
+.edit .bumper.left {
+    float: left;
+}
+
+.edit .xbox .bumper.right {
+    float: right;
+    -webkit-transform: rotateY(180deg);
+    transform: rotateY(180deg);
+}
+
+.edit .bumper.right {
+    float: right;
+    -webkit-transform: rotateY(180deg);
+    transform: rotateY(180deg);
+}
+
+.edit .xbox .quadrant {
+    background: url(https://xhamrttv.github.io/dannysun/quadrant.png);
+}
+
+.edit .quadrant {
+    background: url(https://xhamrttv.github.io/dannysun/quadrant.png);
+}
+
+.edit .xbox .back, .xbox .start {
+    background: url(https://xhamrttv.github.io/dannysun/start-select.png);
+}
+
+.edit .back, .start {
+    background: url(https://xhamrttv.github.io/dannysun/start-select.png);
+}
+
+.edit .xbox .back.pressed, .xbox .start.pressed {
+    opacity: 1;
+}
+
+.edit .back.pressed, .start.pressed {
+    opacity: 1;
+}
+
+.edit .xbox .back {
+    float: left;
+}
+
+.edit .back {
+    float: left;
+}
+
+.edit .xbox .start {
+    background-position: 33px 0px;
+    float: right;
+}
+
+.edit .start {
+    background-position: 33px 0px;
+    float: right;
+}
+
+.edit .xbox .button {
+    background: url(https://xhamrttv.github.io/dannysun/abxy.png);
+}
+
+.edit .button {
+    background: url(https://xhamrttv.github.io/dannysun/abxy.png);
+}
+
+.edit .xbox .button.pressed {
+    background-position-y: -48px;
+    margin-top: 5px;
+    opacity: 1;
+}
+
+.edit .button.pressed {
+    background-position-y: -48px;
+    margin-top: 5px;
+    opacity: 1;
+}
+
+.edit .xbox .a {
+    background-position: 0 0;
+    top: 108px;
+    left: 55px;
+}
+
+.edit .a {
+    background-position: 0 0;
+    top: 108px;
+    left: 55px;
+}
+
+.edit .xbox .b {
+    background-position: -49px 0;
+    top: 58px;
+    right: 0px;
+}
+
+.edit .b {
+    background-position: -49px 0;
+    top: 58px;
+    right: 0px;
+}
+
+.edit .xbox .x {
+    background-position: -98px 0;
+    top: 58px;
+    left: 4px;
+}
+
+.edit .x {
+    background-position: -98px 0;
+    top: 58px;
+    left: 4px;
+}
+
+.edit .xbox .y {
+    background-position: 48px 0;
+    left: 55px;
+    top: 7px;
+}
+
+.edit .y {
+    background-position: 48px 0;
+    left: 55px;
+    top: 7px;
+}
+
+.edit .xbox .stick {
+    background: url(https://xhamrttv.github.io/dannysun/stick.png);
+    background-position: -85px 0;
+}
+
+.edit .stick {
+    position: absolute;
+    background: url(https://xhamrttv.github.io/dannysun/stick.png);
+    background-position: -85px 0;
+}
+
+.edit .xbox .face {
+    background: url(https://xhamrttv.github.io/dannysun/dpad.png);
+}
+
+.edit .face {
+    background: url(https://xhamrttv.github.io/dannysun/dpad.png);
+}
