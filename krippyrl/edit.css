@@ -1,4 +1,4 @@
-/*KrippyRL Controller  - Updated 1/16/2020
+/*Krippyrl Controller  - Updated 1/16/2020
 
     Assets & Code by: Michael Hammer
         Twitch: https://www.twitch.tv/xhamr
@@ -9,9 +9,6 @@
 */
 
 /*Replaces controller base with custom asset*/
-.edit .controller.ds4 {
-    background: url(https://xhamrttv.github.io/krippyrl/base.png);
-}
 
 .controller.edit {
     background: url(https://xhamrttv.github.io/krippyrl/base.png);
