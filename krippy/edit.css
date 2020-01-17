@@ -1,7 +1,21 @@
+/*Krippy Controller  - Updated 1/16/2020
+
+    Assets & Code by: Michael Hammer
+        Twitch: https://www.twitch.tv/xhamr
+        Twitter: https://www.twitter.com/xhamr
+        Instagram: https://www.instagram.com/xhamr
+        Discord: https://discord.gg/qJkFeJA
+        Fiverr: https://www.fiverr.com/xhamrrl/create-custom-controller-overlay
+*/
+
+/*Replaces controller base with custom asset*/
+
 .controller.edit {
-    background: url(https://xhamrttv.github.io/diveyt/base.png);
+    background: url(https://xhamrttv.github.io/krippy/base.png);
 }
 
+/*Triggers section requires more code than expected,
+replaces the active triggers. Use strength meter for best results*/
 .edit .ds4 .triggers {
     width: 588px;
     height: 90px;
@@ -17,11 +31,11 @@
 }
 
 .edit .ds4 .trigger {
-    background: url(https://xhamrttv.github.io/diveyt/triggers.png);
+    background: url(https://xhamrttv.github.io/krippy/triggers.png);
 }
 
 .edit .trigger {
-    background: url(https://xhamrttv.github.io/diveyt/triggers.png);
+    background: url(https://xhamrttv.github.io/krippy/triggers.png);
 }
 
 .edit .ds4 .trigger.left {
@@ -42,12 +56,13 @@
     background-position-x: 99px;
 }
 
+/*Replaces Bumpers with custom assets*/
 .edit .ds4 .bumper {
-    background: url(https://xhamrttv.github.io/diveyt/bumper.png) no-repeat;
+    background: url(https://xhamrttv.github.io/krippy/bumper.png) no-repeat;
 }
 
 .edit .bumper {
-    background: url(https://xhamrttv.github.io/diveyt/bumper.png) no-repeat;
+    background: url(https://xhamrttv.github.io/krippy/bumper.png) no-repeat;
 }
 
 .edit .ds4 .bumpers {
@@ -88,6 +103,7 @@
     transform: rotateY(180deg);
 }
 
+/*Replaces Touchpad (pressed) with custom assets*/
 .edit .ds4 .touchpad {
     width: 262px;
     height: 151px;
@@ -105,42 +121,45 @@
 }
 
 .edit .ds4 .touchpad.pressed {
-    background: url(https://xhamrttv.github.io/diveyt/touchpad.png);
+    background: url(https://xhamrttv.github.io/krippy/touchpad.png);
 }
 
 .edit .touchpad.pressed {
-    background: url(https://xhamrttv.github.io/diveyt/touchpad.png);
+    background: url(https://xhamrttv.github.io/krippy/touchpad.png);
 }
 
+/*Input buttons (left)*/
 .edit .face .ds4 {
-    background: url(https://xhamrttv.github.io/diveyt/dpad.png);
+    background: url(https://xhamrttv.github.io/krippy/dpad.png);
 }
 
 
 .edit .face {
     position: absolute;
-    background: url(https://xhamrttv.github.io/diveyt/dpad.png);
+    background: url(https://xhamrttv.github.io/krippy/dpad.png);
 }
 
+/*Replaces sticks with regular and input*/
 .edit .stick .ds4 {
-    background: url(https://xhamrttv.github.io/diveyt/sticks.png);
+    background: url(https://xhamrttv.github.io/krippy/sticks.png);
 }
 
 
 .edit .stick {
     position: absolute;
-    background: url(https://xhamrttv.github.io/diveyt/sticks.png);
+    background: url(https://xhamrttv.github.io/krippy/sticks.png);
 }
 
+/*Replaces Options and Share button's input version*/
 .edit .ds4 .back, .ds4 .start {
-    background: url(https://xhamrttv.github.io/diveyt/start.png);
+    background: url(https://xhamrttv.github.io/krippy/start.png);
     width: 28px;
     height: 46px;
     opacity: 0;
 }
 
 .edit .back, .start {
-    background: url(https://xhamrttv.github.io/diveyt/start.png);
+    background: url(https://xhamrttv.github.io/krippy/start.png);
     width: 28px;
     height: 46px;
     opacity: 0;
@@ -180,6 +199,7 @@
     background-position: 28px 0;
 }
 
+/*Replaces and correctly positions Playstation icon when inputted*/
 .edit .ds4 .meta {
     width: 42px;
     height: 42px;
@@ -197,13 +217,14 @@
 }
 
 .edit .ds4 .meta.pressed {
-    background: url(https://xhamrttv.github.io/diveyt/meta.png) no-repeat center;
+    background: url(https://xhamrttv.github.io/krippy/meta.png) no-repeat center;
 }
 
 .edit .meta.pressed {
-    background: url(https://xhamrttv.github.io/diveyt/meta.png) no-repeat center;
+    background: url(https://xhamrttv.github.io/krippy/meta.png) no-repeat center;
 }
 
+/*Input buttons (right). Correctly positions them, and replaces both standard and input*/
 .edit .abxy {
     position: absolute;
     width: 170px;
@@ -216,7 +237,7 @@
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(https://xhamrttv.github.io/diveyt/face.png);
+    background: url(https://xhamrttv.github.io/krippy/face.png);
 }
 
 .edit .button.pressed {
