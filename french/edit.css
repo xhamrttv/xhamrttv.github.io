@@ -135,13 +135,13 @@ replaces the active triggers. Use strength meter for best results*/
 
 /*Input buttons (left)*/
 .edit .face .ds4 {
-    background: url(https://xhamrttv.github.io/french/dpad.gif);
+    background: url(https://xhamrttv.github.io/french/dpad2.gif);
 }
 
 
 .edit .face {
     position: absolute;
-    background: url(https://xhamrttv.github.io/french/dpad.gif);
+    background: url(https://xhamrttv.github.io/french/dpad2.gif);
 }
 
 /*Replaces sticks with regular and input*/
@@ -217,7 +217,7 @@ replaces the active triggers. Use strength meter for best results*/
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(https://xhamrttv.github.io/french/face.gif);
+    background: url(https://xhamrttv.github.io/french/face2.gif);
 }
 
 .edit .button.pressed {
