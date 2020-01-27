@@ -10,18 +10,18 @@
 
 /*Replaces controller base with custom asset*/
 
-.edit .ds4.disconnected {
+.edit .ds4 .disconnected {
     background: url(https://xhamrttv.github.io/french/disconnected.png);
 }
 
-.edit .ds4.disconnected div {
+.edit .ds4 .disconnected div {
     display: none;
 }
-.edit .controller.ds4 {
+.edit .controller .ds4 {
     background: url(https://xhamrttv.github.io/french/base.gif);
 }
 
-.controller.edit {
+.controller .edit {
     background: url(https://xhamrttv.github.io/french/base.gif);
 }
 
