@@ -1,4 +1,4 @@
-/*CloudV3nom Controller  - Updated 03/11/2020
+/*Cloud Controller  - Updated 03/11/2020
 
     Assets & Code by: Michael Hammer
         Twitch: https://www.twitch.tv/xhamr
@@ -10,11 +10,11 @@
 
 /*BEGIN Xbox One Controller Styling*/
 .edit.controller.xbox {
-    background: url(https://xhamrttv.github.io/cloudv3nom/base.gif);
+    background: url(https://xhamrttv.github.io/cloud/base.gif);
 }
 
 .controller.edit {
-    background: url(https://xhamrttv.github.io/cloudv3nom/base.gif);
+    background: url(https://xhamrttv.github.io/cloud/base.gif);
 }
 
 .edit .xbox .triggers {
@@ -32,11 +32,11 @@
 }
 
 .edit .xbox .trigger {
-    background: url(https://xhamrttv.github.io/cloudv3nom/trigger.gif);
+    background: url(https://xhamrttv.github.io/cloud/trigger.gif);
 }
 
 .edit .trigger {
-    background: url(https://xhamrttv.github.io/cloudv3nom/trigger.gif);
+    background: url(https://xhamrttv.github.io/cloud/trigger.gif);
 }
 
 .edit .xbox .trigger.left {
@@ -60,11 +60,11 @@
 }
 
 .edit .xbox .bumper {
-    background: url(https://xhamrttv.github.io/cloudv3nom/bumper.gif);
+    background: url(https://xhamrttv.github.io/cloud/bumper.gif);
 }
 
 .edit .bumper {
-    background: url(https://xhamrttv.github.io/cloudv3nom/bumper.gif);
+    background: url(https://xhamrttv.github.io/cloud/bumper.gif);
 }
 
 .edit .xbox .bumper.pressed {
@@ -96,19 +96,19 @@
 }
 
 .edit .xbox .quadrant {
-    background: url(https://xhamrttv.github.io/cloudv3nom/quadrant.png);
+    background: url(https://xhamrttv.github.io/cloud/quadrant.png);
 }
 
 .edit .quadrant {
-    background: url(https://xhamrttv.github.io/cloudv3nom/quadrant.png);
+    background: url(https://xhamrttv.github.io/cloud/quadrant.png);
 }
 
 .edit .xbox .back, .xbox .start {
-    background: url(https://xhamrttv.github.io/cloudv3nom/start-select.gif);
+    background: url(https://xhamrttv.github.io/cloud/start-select.gif);
 }
 
 .edit .back, .start {
-    background: url(https://xhamrttv.github.io/cloudv3nom/start-select.gif);
+    background: url(https://xhamrttv.github.io/cloud/start-select.gif);
 }
 
 .edit .xbox .back.pressed, .xbox .start.pressed {
@@ -138,11 +138,11 @@
 }
 
 .edit .xbox .button {
-    background: url(https://xhamrttv.github.io/cloudv3nom/abxy.gif);
+    background: url(https://xhamrttv.github.io/cloud/abxy.gif);
 }
 
 .edit .button {
-    background: url(https://xhamrttv.github.io/cloudv3nom/abxy.gif);
+    background: url(https://xhamrttv.github.io/cloud/abxy.gif);
 }
 
 .edit .xbox .button.pressed {
@@ -206,20 +206,20 @@
 }
 
 .edit .xbox .stick {
-    background: url(https://xhamrttv.github.io/cloudv3nom/stick.gif);
+    background: url(https://xhamrttv.github.io/cloud/stick.gif);
     background-position: -85px 0;
 }
 
 .edit .stick {
     position: absolute;
-    background: url(https://xhamrttv.github.io/cloudv3nom/stick.gif);
+    background: url(https://xhamrttv.github.io/cloud/stick.gif);
     background-position: -85px 0;
 }
 
 .edit .xbox .face {
-    background: url(https://xhamrttv.github.io/cloudv3nom/dpad.gif);
+    background: url(https://xhamrttv.github.io/cloud/dpad.gif);
 }
 
 .edit .face {
-    background: url(https://xhamrttv.github.io/cloudv3nom/dpad.gif);
+    background: url(https://xhamrttv.github.io/cloud/dpad.gif);
 }
