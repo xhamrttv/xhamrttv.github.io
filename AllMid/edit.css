@@ -1,4 +1,4 @@
-/*Ballchinski Controller  - Updated 1/15/2020
+/*AllMid Controller  - Updated 1/15/2020
 
     Assets & Code by: Michael Hammer
         Twitch: https://www.twitch.tv/xhamr
@@ -10,12 +10,9 @@
 
 /*Replaces controller base with custom asset*/
 .edit .controller.ds4 {
-    background: url(https://xhamrttv.github.io/ballchinski/base.png);
+    background: url(https://xhamrttv.github.io/allmid/ps4/base.png);
 }
 
-.controller.edit {
-    background: url(https://xhamrttv.github.io/ballchinski/base.png);
-}
 
 /*Triggers section requires more code than expected,
 replaces the active triggers. Use strength meter for best results*/
@@ -34,49 +31,27 @@ replaces the active triggers. Use strength meter for best results*/
 }
 
 .edit .ds4 .trigger {
-    background: url(https://xhamrttv.github.io/ballchinski/triggers.png);
+    background: url(https://xhamrttv.github.io/allmid/ps4/triggers.png);
 }
 
-.edit .trigger {
-    background: url(https://xhamrttv.github.io/ballchinski/triggers.png);
-}
 
 .edit .ds4 .trigger.left {
     float: left;
 }
 
-.edit .trigger.left {
-    float: left;
-}
 
 .edit .ds4 .trigger.right {
     float: right;
     background-position-x: 99px;
 }
 
-.edit .trigger.right {
-    float: right;
-    background-position-x: 99px;
-}
-
 /*Replaces Bumpers with custom assets*/
 .edit .ds4 .bumper {
-    background: url(https://xhamrttv.github.io/ballchinski/bumper.png) no-repeat;
+    background: url(https://xhamrttv.github.io/allmid/ps4/bumper.png) no-repeat;
 }
 
-.edit .bumper {
-    background: url(https://xhamrttv.github.io/ballchinski/bumper.png) no-repeat;
-}
 
 .edit .ds4 .bumpers {
-    position: absolute;
-    width: 588px;
-    height: 23px;
-    left: 109px;
-    top: 94px;
-}
-
-.edit .bumpers {
     position: absolute;
     width: 588px;
     height: 23px;
@@ -90,21 +65,12 @@ replaces the active triggers. Use strength meter for best results*/
     float: left;
 }
 
-.edit .bumper.left {
-    /* -webkit-transform: rotateY(180deg); */
-    /* transform: rotateY(180deg); */
-    float: left;
-}
 
 .edit .ds4 .bumper.right {
     float: right;
     transform: rotateY(180deg);
 }
 
-.edit .bumper.right {
-    float: right;
-    transform: rotateY(180deg);
-}
 
 /*Replaces Touchpad (pressed) with custom assets*/
 .edit .ds4 .touchpad {
@@ -115,66 +81,34 @@ replaces the active triggers. Use strength meter for best results*/
     top: 122px;
 }
 
-.edit .touchpad {
-    width: 262px;
-    height: 151px;
-    position: absolute;
-    left: 272px;
-    top: 122px;
-}
 
 .edit .ds4 .touchpad.pressed {
-    background: url(https://xhamrttv.github.io/ballchinski/touchpad.png);
+    background: url(https://xhamrttv.github.io/allmid/ps4/touchpad.png);
 }
 
-.edit .touchpad.pressed {
-    background: url(https://xhamrttv.github.io/ballchinski/touchpad.png);
-}
 
 /*Input buttons (left)*/
 .edit .face .ds4 {
-    background: url(https://xhamrttv.github.io/ballchinski/dpad.png);
+    background: url(https://xhamrttv.github.io/allmid/ps4/dpad.png);
 }
 
-
-.edit .face {
-    position: absolute;
-    background: url(https://xhamrttv.github.io/ballchinski/dpad.png);
-}
 
 /*Replaces sticks with regular and input*/
 .edit .stick .ds4 {
-    background: url(https://xhamrttv.github.io/ballchinski/sticks.png);
+    background: url(https://xhamrttv.github.io/allmid/ps4/sticks.png);
 }
 
-
-.edit .stick {
-    position: absolute;
-    background: url(https://xhamrttv.github.io/ballchinski/sticks.png);
-}
 
 /*Replaces Options and Share button's input version*/
 .edit .ds4 .back, .ds4 .start {
-    background: url(https://xhamrttv.github.io/ballchinski/start.png);
+    background: url(https://xhamrttv.github.io/allmid/ps4/start.png);
     width: 28px;
     height: 46px;
     opacity: 0;
 }
 
-.edit .back, .start {
-    background: url(https://xhamrttv.github.io/ballchinski/start.png);
-    width: 28px;
-    height: 46px;
-    opacity: 0;
-}
 
 .edit .ds4 .back.pressed, .ds4 .start.pressed {
-    /* background-position-y: -21px; */
-    /* margin-top: 2px; */
-    opacity: 1;
-}
-
-.edit .back.pressed, .start.pressed {
     /* background-position-y: -21px; */
     /* margin-top: 2px; */
     opacity: 1;
@@ -185,18 +119,7 @@ replaces the active triggers. Use strength meter for best results*/
     /* width: 28px; */
 }
 
-.edit .back {
-    float: left;
-    /* width: 28px; */
-}
-
 .edit .ds4 .start {
-    float: right;
-    /* width: 28px; */
-    background-position: 28px 0;
-}
-
-.edit .start {
     float: right;
     /* width: 28px; */
     background-position: 28px 0;
@@ -211,25 +134,14 @@ replaces the active triggers. Use strength meter for best results*/
     bottom: 216px;
 }
 
-.edit .meta {
-    width: 42px;
-    height: 42px;
-    position: absolute;
-    left: 382px;
-    bottom: 216px;
-}
-
 .edit .ds4 .meta.pressed {
-    background: url(https://xhamrttv.github.io/ballchinski/meta.png) no-repeat center;
+    background: url(https://xhamrttv.github.io/allmid/ps4/meta.png) no-repeat center;
 }
 
-.edit .meta.pressed {
-    background: url(https://xhamrttv.github.io/ballchinski/meta.png) no-repeat center;
-}
 
 /*Input buttons (right). Correctly positions them, and 
 replaces both standard and input*/
-.edit .abxy {
+.edit .ds4 .abxy {
     position: absolute;
     width: 170px;
     height: 171px;
@@ -237,36 +149,36 @@ replaces both standard and input*/
     left: 567px;
 }
 
-.edit .button {
+.edit .ds4 .button {
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(https://xhamrttv.github.io/ballchinski/face.png);
+    background: url(https://xhamrttv.github.io/allmid/ps4/face.png);
 }
 
-.edit .button.pressed {
+.edit .ds4 .button.pressed {
     background-position-y: 55px;
     /* margin-top: 5px; */
 }
 
-.edit .a {
+.edit .ds4 .a {
     background-position: 0 0;
     bottom: 0;
     left: 58px;
 }
 
-.edit .b {
+.edit .ds4 .b {
     background-position: -57px 0;
     top: 58px;
     right: 0px;
 }
 
-.edit .x {
+.edit .ds4 .x {
     background-position: -113px 0;
     top: 58px;
 }
 
-.edit .y {
+.edit .ds4 .y {
     background-position: 55px 0;
     left: 58px;
 }
