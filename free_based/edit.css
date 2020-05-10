@@ -9,9 +9,6 @@
     background: url(https://xhamrttv.github.io/free_based/base.png);
 }
 
-.controller.edit {
-    background: url(https://xhamrttv.github.io/free_based/base.png);
-}
 
 /*Triggers section requires more code than expected,
 replaces the active triggers. Use strength meter for best results*/
@@ -22,57 +19,35 @@ replaces the active triggers. Use strength meter for best results*/
     left: 152px;
 }
 
-.edit .triggers {
-    width: 446px;
-    height: 121px;
-    position: absolute;
-    left: 152px;
-}
+
 
 .edit .xbox .trigger {
     background: url(https://xhamrttv.github.io/free_based/trigger.gif);
 }
 
-.edit .trigger {
-    background: url(https://xhamrttv.github.io/free_based/trigger.gif);
-}
 
 .edit .xbox .trigger.left {
     float: left;
     background-position: 0 0;
 }
 
-.edit .trigger.left {
-    float: left;
-    background-position: 0 0;
-}
 
 .edit .xbox .trigger.right {
     float: right;
     transform: rotateY(180deg);
 }
 
-.edit .trigger.right {
-    float: right;
-    transform: rotateY(180deg);
-}
 
 /*Replaces Bumpers with custom assets*/
 .edit .xbox .bumper {
     background: url(https://xhamrttv.github.io/free_based/bumper.gif);
 }
 
-.edit .bumper {
-    background: url(https://xhamrttv.github.io/free_based/bumper.gif);
-}
 
 .edit .xbox .bumper.pressed {
     opacity: 1;
 }
 
-.edit .bumper.pressed {
-    opacity: 1;
-}
 
 .edit .xbox .bumper.left {
 	/* -webkit-transform: rotateY(180deg); */
@@ -80,11 +55,6 @@ replaces the active triggers. Use strength meter for best results*/
     float: left;
 }
 
-.edit .bumper.left {
-	/* -webkit-transform: rotateY(180deg); */
-    /* transform: rotateY(180deg); */
-    float: left;
-}
 
 .edit .xbox .bumper.right {
     float: right;
@@ -92,18 +62,9 @@ replaces the active triggers. Use strength meter for best results*/
     transform: rotateY(180deg);
 }
 
-.edit .bumper.right {
-    float: right;
-    -webkit-transform: rotateY(180deg);
-    transform: rotateY(180deg);
-}
 
 /*Replaces Quadrant with custom assets*/
 .edit .xbox .quadrant {
-    background: url(https://xhamrttv.github.io/free_based/quadrant.png);
-}
-
-.edit .quadrant {
     background: url(https://xhamrttv.github.io/free_based/quadrant.png);
 }
 
@@ -112,32 +73,18 @@ replaces the active triggers. Use strength meter for best results*/
     background: url(https://xhamrttv.github.io/free_based/start-select.gif);
 }
 
-.edit .back, .start {
-    background: url(https://xhamrttv.github.io/free_based/start-select.gif);
-}
 
 .edit .xbox .back.pressed, .xbox .start.pressed {
     opacity: 1;
 }
 
-.edit .back.pressed, .start.pressed {
-    opacity: 1;
-}
 
 .edit .xbox .back {
     float: left;
 }
 
-.edit .back {
-    float: left;
-}
 
 .edit .xbox .start {
-    background-position: 33px 0px;
-    float: right;
-}
-
-.edit .start {
     background-position: 33px 0px;
     float: right;
 }
@@ -148,17 +95,7 @@ replaces both standard and input*/
     background: url(https://xhamrttv.github.io/free_based/abxy.gif);
 }
 
-.edit .button {
-    background: url(https://xhamrttv.github.io/free_based/abxy.gif);
-}
-
 .edit .xbox .button.pressed {
-    background-position-y: -48px;
-    margin-top: 5px;
-    opacity: 1;
-}
-
-.edit .button.pressed {
     background-position-y: -48px;
     margin-top: 5px;
     opacity: 1;
@@ -170,11 +107,6 @@ replaces both standard and input*/
     left: 55px;
 }
 
-.edit .a {
-    background-position: 0 0;
-    top: 108px;
-    left: 55px;
-}
 
 .edit .xbox .b {
     background-position: -49px 0;
@@ -182,11 +114,6 @@ replaces both standard and input*/
     right: 0px;
 }
 
-.edit .b {
-    background-position: -49px 0;
-    top: 58px;
-    right: 0px;
-}
 
 .edit .xbox .x {
     background-position: -98px 0;
@@ -194,10 +121,6 @@ replaces both standard and input*/
     left: 4px;
 }
 
-.edit .x {
-    background-position: -98px 0;
-    top: 58px;
-    left: 4px;
 }
 
 .edit .xbox .y {
@@ -206,11 +129,6 @@ replaces both standard and input*/
     top: 7px;
 }
 
-.edit .y {
-    background-position: 48px 0;
-    left: 55px;
-    top: 7px;
-}
 
 /*Replaces sticks with regular and input*/
 .edit .xbox .stick {
@@ -218,11 +136,6 @@ replaces both standard and input*/
     background-position: -85px 0;
 }
 
-.edit .stick {
-    position: absolute;
-    background: url(https://xhamrttv.github.io/free_based/stick.gif);
-    background-position: -85px 0;
-}
 
 /*Input buttons (left). Correctly positions them, and 
 replaces both standard and input*/
@@ -230,6 +143,3 @@ replaces both standard and input*/
     background: url(https://xhamrttv.github.io/free_based/dpad.gif);
 }
 
-.edit .face {
-    background: url(https://xhamrttv.github.io/free_based/dpad.gif);
-}
