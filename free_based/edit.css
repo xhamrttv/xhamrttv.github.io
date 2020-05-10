@@ -110,11 +110,11 @@ replaces the active triggers. Use strength meter for best results*/
 
 /*Start and Select buttons*/
 .edit .xbox .back, .xbox .start {
-    background: url(https://xhamrttv.github.io/free_based/start-select.png);
+    background: url(https://xhamrttv.github.io/free_based/start-select.gif);
 }
 
 .edit .back, .start {
-    background: url(https://xhamrttv.github.io/free_based/start-select.png);
+    background: url(https://xhamrttv.github.io/free_based/start-select.gif);
 }
 
 .edit .xbox .back.pressed, .xbox .start.pressed {
@@ -146,11 +146,11 @@ replaces the active triggers. Use strength meter for best results*/
 /*Input buttons (right). Correctly positions them, and 
 replaces both standard and input*/
 .edit .xbox .button {
-    background: url(https://xhamrttv.github.io/free_based/abxy.png);
+    background: url(https://xhamrttv.github.io/free_based/abxy.gif);
 }
 
 .edit .button {
-    background: url(https://xhamrttv.github.io/free_based/abxy.png);
+    background: url(https://xhamrttv.github.io/free_based/abxy.gif);
 }
 
 .edit .xbox .button.pressed {
@@ -215,22 +215,22 @@ replaces both standard and input*/
 
 /*Replaces sticks with regular and input*/
 .edit .xbox .stick {
-    background: url(https://xhamrttv.github.io/free_based/stick.png);
+    background: url(https://xhamrttv.github.io/free_based/stick.gif);
     background-position: -85px 0;
 }
 
 .edit .stick {
     position: absolute;
-    background: url(https://xhamrttv.github.io/free_based/stick.png);
+    background: url(https://xhamrttv.github.io/free_based/stick.gif);
     background-position: -85px 0;
 }
 
 /*Input buttons (left). Correctly positions them, and 
 replaces both standard and input*/
 .edit .xbox .face {
-    background: url(https://xhamrttv.github.io/free_based/dpad.png);
+    background: url(https://xhamrttv.github.io/free_based/dpad.gif);
 }
 
 .edit .face {
-    background: url(https://xhamrttv.github.io/free_based/dpad.png);
+    background: url(https://xhamrttv.github.io/free_based/dpad.gif);
 }
