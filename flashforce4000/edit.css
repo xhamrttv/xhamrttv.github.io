@@ -154,13 +154,13 @@ replaces both standard and input*/
 }
 
 .edit .xbox .button.pressed {
-    background-position-y: -48px;
+    background-position-y: -45px;
     margin-top: 5px;
     opacity: 1;
 }
 
 .edit .button.pressed {
-    background-position-y: -48px;
+    background-position-y: -45px;
     margin-top: 5px;
     opacity: 1;
 }
