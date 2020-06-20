@@ -105,6 +105,15 @@ replaces the active triggers. Use strength meter for best results*/
     transform: rotateY(180deg);
 }
 
+/*Replaces the PS Logo button (meta)*/
+.edit .ds4 .meta.pressed {
+    background: url(https://xhamrttv.github.io/hoodyhoo/meta.png) no-repeat center;
+}
+
+.edit .meta.pressed {
+    background: url(https://xhamrttv.github.io/hoodyhoo/meta.png) no-repeat center;
+}
+
 /*Replaces Touchpad (pressed) with custom assets*/
 .edit .ds4 .touchpad {
     width: 262px;
