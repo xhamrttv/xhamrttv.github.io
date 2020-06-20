@@ -1,4 +1,4 @@
-/*free/ps4/wire Controller  - Updated 06/18/2020
+/*Wire Controller  - Updated 06/19/2020
 
     Assets & Code by: Michael Hammer
         Twitter: https://www.twitter.com/xhamr
@@ -7,11 +7,11 @@
 
 /*Replaces controller base with custom asset*/
 .edit .controller.ds4 {
-    background: url(https://xhamrttv.github.io/free/ps4/wire/base.png);
+    background: url(https://xhamrttv.github.io/free/wire/ps4/base.png);
 }
 
 .controller.edit {
-    background: url(https://xhamrttv.github.io/free/ps4/wire/base.png);
+    background: url(https://xhamrttv.github.io/free/wire/ps4/base.png);
 }
 
 /*Triggers section requires more code than expected,
@@ -31,11 +31,11 @@ replaces the active triggers. Use strength meter for best results*/
 }
 
 .edit .ds4 .trigger {
-    background: url(https://xhamrttv.github.io/free/ps4/wire/triggers.png);
+    background: url(https://xhamrttv.github.io/free/wire/ps4/triggers.png);
 }
 
 .edit .trigger {
-    background: url(https://xhamrttv.github.io/free/ps4/wire/triggers.png);
+    background: url(https://xhamrttv.github.io/free/wire/ps4/triggers.png);
 }
 
 .edit .ds4 .trigger.left {
@@ -58,11 +58,11 @@ replaces the active triggers. Use strength meter for best results*/
 
 /*Replaces Bumpers with custom assets*/
 .edit .ds4 .bumper {
-    background: url(https://xhamrttv.github.io/free/ps4/wire/bumper.png) no-repeat;
+    background: url(https://xhamrttv.github.io/free/wire/ps4/bumper.png) no-repeat;
 }
 
 .edit .bumper {
-    background: url(https://xhamrttv.github.io/free/ps4/wire/bumper.png) no-repeat;
+    background: url(https://xhamrttv.github.io/free/wire/ps4/bumper.png) no-repeat;
 }
 
 .edit .ds4 .bumpers {
@@ -121,45 +121,45 @@ replaces the active triggers. Use strength meter for best results*/
 }
 
 .edit .ds4 .touchpad.pressed {
-    background: url(https://xhamrttv.github.io/free/ps4/wire/touchpad.png);
+    background: url(https://xhamrttv.github.io/free/wire/ps4/touchpad.png);
 }
 
 .edit .touchpad.pressed {
-    background: url(https://xhamrttv.github.io/free/ps4/wire/touchpad.png);
+    background: url(https://xhamrttv.github.io/free/wire/ps4/touchpad.png);
 }
 
 /*Input buttons (left)*/
 .edit .face .ds4 {
-    background: url(https://xhamrttv.github.io/free/ps4/wire/dpad.png);
+    background: url(https://xhamrttv.github.io/free/wire/ps4/dpad.png);
 }
 
 
 .edit .face {
     position: absolute;
-    background: url(https://xhamrttv.github.io/free/ps4/wire/dpad.png);
+    background: url(https://xhamrttv.github.io/free/wire/ps4/dpad.png);
 }
 
 /*Replaces sticks with regular and input*/
 .edit .stick .ds4 {
-    background: url(https://xhamrttv.github.io/free/ps4/wire/sticks.png);
+    background: url(https://xhamrttv.github.io/free/wire/ps4/sticks.png);
 }
 
 
 .edit .stick {
     position: absolute;
-    background: url(https://xhamrttv.github.io/free/ps4/wire/sticks.png);
+    background: url(https://xhamrttv.github.io/free/wire/ps4/sticks.png);
 }
 
 /*Replaces Options and Share button's input version*/
 .edit .ds4 .back, .ds4 .start {
-    background: url(https://xhamrttv.github.io/free/ps4/wire/start.png);
+    background: url(https://xhamrttv.github.io/free/wire/ps4/start.png);
     width: 28px;
     height: 46px;
     opacity: 0;
 }
 
 .edit .back, .start {
-    background: url(https://xhamrttv.github.io/free/ps4/wire/start.png);
+    background: url(https://xhamrttv.github.io/free/wire/ps4/start.png);
     width: 28px;
     height: 46px;
     opacity: 0;
@@ -217,11 +217,11 @@ replaces the active triggers. Use strength meter for best results*/
 }
 
 .edit .ds4 .meta.pressed {
-    background: url(https://xhamrttv.github.io/free/ps4/wire/meta.png) no-repeat center;
+    background: url(https://xhamrttv.github.io/free/wire/ps4/meta.png) no-repeat center;
 }
 
 .edit .meta.pressed {
-    background: url(https://xhamrttv.github.io/free/ps4/wire/meta.png) no-repeat center;
+    background: url(https://xhamrttv.github.io/free/wire/ps4/meta.png) no-repeat center;
 }
 
 /*Input buttons (right). Correctly positions them, and 
@@ -238,7 +238,7 @@ replaces both standard and input*/
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(https://xhamrttv.github.io/free/ps4/wire/face.png);
+    background: url(https://xhamrttv.github.io/free/wire/ps4/face.png);
 }
 
 .edit .button.pressed {
