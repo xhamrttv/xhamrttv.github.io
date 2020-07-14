@@ -1,0 +1,236 @@
+/*RBG Esports Controller (Xbox)  - Updated 07/13/2020
+
+        Twitter: https://www.twitter.com/xhamr
+        Discord: https://discord.gg/qJkFeJA
+        Fiverr: https://www.fiverr.com/xhamrrl/create-custom-controller-overlay
+*/
+
+/*Replaces controller base with custom asset*/
+.edit.controller.xbox {
+    background: url(https://xhamrttv.github.io/rbgesports/rlxbox/base.gif);
+}
+
+.controller.edit {
+    background: url(https://xhamrttv.github.io/rbgesports/rlxbox/base.gif);
+}
+
+/*Triggers section requires more code than expected,
+replaces the active triggers. Use strength meter for best results*/
+.edit .xbox .triggers {
+    width: 446px;
+    height: 121px;
+    position: absolute;
+    left: 152px;
+}
+
+.edit .triggers {
+    width: 446px;
+    height: 121px;
+    position: absolute;
+    left: 152px;
+}
+
+.edit .xbox .trigger {
+    background: url(https://xhamrttv.github.io/rbgesports/rlxbox/trigger.gif);
+}
+
+.edit .trigger {
+    background: url(https://xhamrttv.github.io/rbgesports/rlxbox/trigger.gif);
+}
+
+.edit .xbox .trigger.left {
+    float: left;
+    background-position: 0 0;
+}
+
+.edit .trigger.left {
+    float: left;
+    background-position: 0 0;
+}
+
+.edit .xbox .trigger.right {
+    float: right;
+    transform: rotateY(180deg);
+}
+
+.edit .trigger.right {
+    float: right;
+    transform: rotateY(180deg);
+}
+
+/*Replaces Bumpers with custom assets*/
+.edit .xbox .bumper {
+    background: url(https://xhamrttv.github.io/rbgesports/rlxbox/bumper.gif);
+}
+
+.edit .bumper {
+    background: url(https://xhamrttv.github.io/rbgesports/rlxbox/bumper.gif);
+}
+
+.edit .xbox .bumper.pressed {
+    opacity: 1;
+}
+
+.edit .bumper.pressed {
+    opacity: 1;
+}
+
+.edit .xbox .bumper.left {
+	/* -webkit-transform: rotateY(180deg); */
+    /* transform: rotateY(180deg); */
+    float: left;
+}
+
+.edit .bumper.left {
+	/* -webkit-transform: rotateY(180deg); */
+    /* transform: rotateY(180deg); */
+    float: left;
+}
+
+.edit .xbox .bumper.right {
+    float: right;
+    -webkit-transform: rotateY(180deg);
+    transform: rotateY(180deg);
+}
+
+.edit .bumper.right {
+    float: right;
+    -webkit-transform: rotateY(180deg);
+    transform: rotateY(180deg);
+}
+
+/*Replaces Quadrant with custom assets*/
+.edit .xbox .quadrant {
+    background: url(https://xhamrttv.github.io/rbgesports/rlxbox/quadrant.png);
+}
+
+.edit .quadrant {
+    background: url(https://xhamrttv.github.io/rbgesports/rlxbox/quadrant.png);
+}
+
+/*Start and Select buttons*/
+.edit .xbox .back, .xbox .start {
+    background: url(https://xhamrttv.github.io/rbgesports/rlxbox/start-select.gif);
+}
+
+.edit .back, .start {
+    background: url(https://xhamrttv.github.io/rbgesports/rlxbox/start-select.gif);
+}
+
+.edit .xbox .back.pressed, .xbox .start.pressed {
+    opacity: 1;
+}
+
+.edit .back.pressed, .start.pressed {
+    opacity: 1;
+}
+
+.edit .xbox .back {
+    float: left;
+}
+
+.edit .back {
+    float: left;
+}
+
+.edit .xbox .start {
+    background-position: 33px 0px;
+    float: right;
+}
+
+.edit .start {
+    background-position: 33px 0px;
+    float: right;
+}
+
+/*Input buttons (right). Correctly positions them, and 
+replaces both standard and input*/
+.edit .xbox .button {
+    background: url(https://xhamrttv.github.io/rbgesports/rlxbox/abxy.gif);
+}
+
+.edit .button {
+    background: url(https://xhamrttv.github.io/rbgesports/rlxbox/abxy.gif);
+}
+
+.edit .xbox .button.pressed {
+    background-position-y: -48px;
+    margin-top: 5px;
+    opacity: 1;
+}
+
+.edit .button.pressed {
+    background-position-y: -48px;
+    margin-top: 5px;
+    opacity: 1;
+}
+
+.edit .xbox .a {
+    background-position: 0 0;
+    top: 108px;
+    left: 55px;
+}
+
+.edit .a {
+    background-position: 0 0;
+    top: 108px;
+    left: 55px;
+}
+
+.edit .xbox .b {
+    background-position: -49px 0;
+    top: 58px;
+    right: 0px;
+}
+
+.edit .b {
+    background-position: -49px 0;
+    top: 58px;
+    right: 0px;
+}
+
+.edit .xbox .x {
+    background-position: -98px 0;
+    top: 58px;
+    left: 4px;
+}
+
+.edit .x {
+    background-position: -98px 0;
+    top: 58px;
+    left: 4px;
+}
+
+.edit .xbox .y {
+    background-position: 48px 0;
+    left: 55px;
+    top: 7px;
+}
+
+.edit .y {
+    background-position: 48px 0;
+    left: 55px;
+    top: 7px;
+}
+
+/*Replaces sticks with regular and input*/
+.edit .xbox .stick {
+    background: url(https://xhamrttv.github.io/rbgesports/rlxbox/stick.gif);
+    background-position: -85px 0;
+}
+
+.edit .stick {
+    position: absolute;
+    background: url(https://xhamrttv.github.io/rbgesports/rlxbox/stick.gif);
+    background-position: -85px 0;
+}
+
+/*Input buttons (left). Correctly positions them, and 
+replaces both standard and input*/
+.edit .xbox .face {
+    background: url(https://xhamrttv.github.io/rbgesports/rlxbox/dpad.gif);
+}
+
+.edit .face {
+    background: url(https://xhamrttv.github.io/rbgesports/rlxbox/dpad.gif);
+}
