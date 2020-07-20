@@ -148,6 +148,7 @@ replaces the active triggers. Use strength meter for best results*/
 
 .edit .stick {
     position: absolute;
+    padding-left: -10px;
     background: url(https://xhamrttv.github.io/nether_mason/sticks.png);
 }
 
