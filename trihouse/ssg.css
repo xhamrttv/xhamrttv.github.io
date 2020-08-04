@@ -7,11 +7,11 @@
 
 /*Replaces controller base with custom asset*/
 .edit .controller.ds4 {
-    background: url(https://xhamrttv.github.io/trihouse/ssg/base.gif);
+    background: url(https://xhamrttv.github.io/trihouse/SSG/base.gif);
 }
 
 .controller.edit {
-    background: url(https://xhamrttv.github.io/trihouse/ssg/base.gif);
+    background: url(https://xhamrttv.github.io/trihouse/SSG/base.gif);
 }
 
 /*Replaces disconnected controller image with custom one with ad,
@@ -49,11 +49,11 @@ replaces the active triggers. Use strength meter for best results*/
 }
 
 .edit .ds4 .trigger {
-    background: url(https://xhamrttv.github.io/trihouse/ssg/triggers.png);
+    background: url(https://xhamrttv.github.io/trihouse/SSG/triggers.png);
 }
 
 .edit .trigger {
-    background: url(https://xhamrttv.github.io/trihouse/ssg/triggers.png);
+    background: url(https://xhamrttv.github.io/trihouse/SSG/triggers.png);
 }
 
 .edit .ds4 .trigger.left {
@@ -76,11 +76,11 @@ replaces the active triggers. Use strength meter for best results*/
 
 /*Replaces Bumpers with custom assets*/
 .edit .ds4 .bumper {
-    background: url(https://xhamrttv.github.io/trihouse/ssg/bumper.png) no-repeat;
+    background: url(https://xhamrttv.github.io/trihouse/SSG/bumper.png) no-repeat;
 }
 
 .edit .bumper {
-    background: url(https://xhamrttv.github.io/trihouse/ssg/bumper.png) no-repeat;
+    background: url(https://xhamrttv.github.io/trihouse/SSG/bumper.png) no-repeat;
 }
 
 .edit .ds4 .bumpers {
@@ -139,45 +139,45 @@ replaces the active triggers. Use strength meter for best results*/
 }
 
 .edit .ds4 .touchpad.pressed {
-    background: url(https://xhamrttv.github.io/trihouse/ssg/touchpad.png);
+    background: url(https://xhamrttv.github.io/trihouse/SSG/touchpad.png);
 }
 
 .edit .touchpad.pressed {
-    background: url(https://xhamrttv.github.io/trihouse/ssg/touchpad.png);
+    background: url(https://xhamrttv.github.io/trihouse/SSG/touchpad.png);
 }
 
 /*Input buttons (left)*/
 .edit .face .ds4 {
-    background: url(https://xhamrttv.github.io/trihouse/ssg/dpad.png);
+    background: url(https://xhamrttv.github.io/trihouse/SSG/dpad.png);
 }
 
 
 .edit .face {
     position: absolute;
-    background: url(https://xhamrttv.github.io/trihouse/ssg/dpad.png);
+    background: url(https://xhamrttv.github.io/trihouse/SSG/dpad.png);
 }
 
 /*Replaces sticks with regular and input*/
 .edit .stick .ds4 {
-    background: url(https://xhamrttv.github.io/trihouse/ssg/sticks.png);
+    background: url(https://xhamrttv.github.io/trihouse/SSG/sticks.png);
 }
 
 
 .edit .stick {
     position: absolute;
-    background: url(https://xhamrttv.github.io/trihouse/ssg/sticks.png);
+    background: url(https://xhamrttv.github.io/trihouse/SSG/sticks.png);
 }
 
 /*Replaces Options and Share button's input version*/
 .edit .ds4 .back, .ds4 .start {
-    background: url(https://xhamrttv.github.io/trihouse/ssg/start.png);
+    background: url(https://xhamrttv.github.io/trihouse/SSG/start.png);
     width: 28px;
     height: 46px;
     opacity: 0;
 }
 
 .edit .back, .start {
-    background: url(https://xhamrttv.github.io/trihouse/ssg/start.png);
+    background: url(https://xhamrttv.github.io/trihouse/SSG/start.png);
     width: 28px;
     height: 46px;
     opacity: 0;
@@ -235,11 +235,11 @@ replaces the active triggers. Use strength meter for best results*/
 }
 
 .edit .ds4 .meta.pressed {
-    background: url(https://xhamrttv.github.io/trihouse/ssg/meta.png) no-repeat center;
+    background: url(https://xhamrttv.github.io/trihouse/SSG/meta.png) no-repeat center;
 }
 
 .edit .meta.pressed {
-    background: url(https://xhamrttv.github.io/trihouse/ssg/meta.png) no-repeat center;
+    background: url(https://xhamrttv.github.io/trihouse/SSG/meta.png) no-repeat center;
 }
 
 /*Input buttons (right). Correctly positions them, and replaces both standard and input*/
@@ -255,7 +255,7 @@ replaces the active triggers. Use strength meter for best results*/
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(https://xhamrttv.github.io/trihouse/ssg/face.png);
+    background: url(https://xhamrttv.github.io/trihouse/SSG/face.png);
 }
 
 .edit .button.pressed {
