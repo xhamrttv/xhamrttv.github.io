@@ -1,19 +1,35 @@
-/*TriHouse Controller (Meme Edition) - Updated 1/10/2020
+/*TriHouse Controller (SSG Edition) - Updated 8/03/2020
 
     Assets & Code by: Michael Hammer
-        Twitch: https://www.twitch.tv/xhamr
         Twitter: https://www.twitter.com/xhamr
-        Instagram: https://www.instagram.com/xhamr
         Discord: https://discord.gg/qJkFeJA
 */
 
 /*Replaces controller base with custom asset*/
 .edit .controller.ds4 {
-    background: url(https://xhamrttv.github.io/trihouse/meme/base.png);
+    background: url(https://xhamrttv.github.io/trihouse/ssg/base.gif);
 }
 
 .controller.edit {
-    background: url(https://xhamrttv.github.io/trihouse/meme/base.png);
+    background: url(https://xhamrttv.github.io/trihouse/ssg/base.gif);
+}
+
+/*Replaces disconnected controller image with custom one with ad,
+'cause ya boy is a sell out (:*/
+.edit.ds4.disconnected {
+    background: url(https://xhamrttv.github.io/ps4-disconnected.png);
+}
+
+.edit.disconnected {
+    background: url(https://xhamrttv.github.io/ps4-disconnected.png);
+}
+
+.edit.xbox.disconnected div {
+    display: none;
+}
+
+.edit.disconnected div {
+    display: none;
 }
 
 /*Triggers section requires more code than expected,
@@ -33,11 +49,11 @@ replaces the active triggers. Use strength meter for best results*/
 }
 
 .edit .ds4 .trigger {
-    background: url(https://xhamrttv.github.io/trihouse/meme/triggers.png);
+    background: url(https://xhamrttv.github.io/trihouse/ssg/triggers.png);
 }
 
 .edit .trigger {
-    background: url(https://xhamrttv.github.io/trihouse/meme/triggers.png);
+    background: url(https://xhamrttv.github.io/trihouse/ssg/triggers.png);
 }
 
 .edit .ds4 .trigger.left {
@@ -60,11 +76,11 @@ replaces the active triggers. Use strength meter for best results*/
 
 /*Replaces Bumpers with custom assets*/
 .edit .ds4 .bumper {
-    background: url(https://xhamrttv.github.io/trihouse/meme/bumper.png) no-repeat;
+    background: url(https://xhamrttv.github.io/trihouse/ssg/bumper.png) no-repeat;
 }
 
 .edit .bumper {
-    background: url(https://xhamrttv.github.io/trihouse/meme/bumper.png) no-repeat;
+    background: url(https://xhamrttv.github.io/trihouse/ssg/bumper.png) no-repeat;
 }
 
 .edit .ds4 .bumpers {
@@ -123,45 +139,45 @@ replaces the active triggers. Use strength meter for best results*/
 }
 
 .edit .ds4 .touchpad.pressed {
-    background: url(https://xhamrttv.github.io/trihouse/meme/touchpad.png);
+    background: url(https://xhamrttv.github.io/trihouse/ssg/touchpad.png);
 }
 
 .edit .touchpad.pressed {
-    background: url(https://xhamrttv.github.io/trihouse/meme/touchpad.png);
+    background: url(https://xhamrttv.github.io/trihouse/ssg/touchpad.png);
 }
 
 /*Input buttons (left)*/
 .edit .face .ds4 {
-    background: url(https://xhamrttv.github.io/trihouse/meme/dpad.png);
+    background: url(https://xhamrttv.github.io/trihouse/ssg/dpad.png);
 }
 
 
 .edit .face {
     position: absolute;
-    background: url(https://xhamrttv.github.io/trihouse/meme/dpad.png);
+    background: url(https://xhamrttv.github.io/trihouse/ssg/dpad.png);
 }
 
 /*Replaces sticks with regular and input*/
 .edit .stick .ds4 {
-    background: url(https://xhamrttv.github.io/trihouse/meme/sticks.png);
+    background: url(https://xhamrttv.github.io/trihouse/ssg/sticks.png);
 }
 
 
 .edit .stick {
     position: absolute;
-    background: url(https://xhamrttv.github.io/trihouse/meme/sticks.png);
+    background: url(https://xhamrttv.github.io/trihouse/ssg/sticks.png);
 }
 
 /*Replaces Options and Share button's input version*/
 .edit .ds4 .back, .ds4 .start {
-    background: url(https://xhamrttv.github.io/trihouse/meme/start.png);
+    background: url(https://xhamrttv.github.io/trihouse/ssg/start.png);
     width: 28px;
     height: 46px;
     opacity: 0;
 }
 
 .edit .back, .start {
-    background: url(https://xhamrttv.github.io/trihouse/meme/start.png);
+    background: url(https://xhamrttv.github.io/trihouse/ssg/start.png);
     width: 28px;
     height: 46px;
     opacity: 0;
@@ -219,11 +235,11 @@ replaces the active triggers. Use strength meter for best results*/
 }
 
 .edit .ds4 .meta.pressed {
-    background: url(https://xhamrttv.github.io/trihouse/meme/meta.png) no-repeat center;
+    background: url(https://xhamrttv.github.io/trihouse/ssg/meta.png) no-repeat center;
 }
 
 .edit .meta.pressed {
-    background: url(https://xhamrttv.github.io/trihouse/meme/meta.png) no-repeat center;
+    background: url(https://xhamrttv.github.io/trihouse/ssg/meta.png) no-repeat center;
 }
 
 /*Input buttons (right). Correctly positions them, and replaces both standard and input*/
@@ -239,7 +255,7 @@ replaces the active triggers. Use strength meter for best results*/
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(https://xhamrttv.github.io/trihouse/meme/face.png);
+    background: url(https://xhamrttv.github.io/trihouse/ssg/face.png);
 }
 
 .edit .button.pressed {
