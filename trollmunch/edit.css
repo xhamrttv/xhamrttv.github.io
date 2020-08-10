@@ -141,10 +141,14 @@ replaces the active triggers. Use strength meter for best results*/
 
 .edit .ds4 .touchpad.pressed {
     background: url(https://xhamrttv.github.io/trollmunch/touchpad.gif);
+    left: 272px;
+    top: 122px;
 }
 
 .edit .touchpad.pressed {
     background: url(https://xhamrttv.github.io/trollmunch/touchpad.gif);
+    left: 272px;
+    top: 122px;
 }
 
 /*Input buttons (left)*/
