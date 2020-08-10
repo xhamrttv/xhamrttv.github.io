@@ -17,6 +17,24 @@
     background: url(https://xhamrttv.github.io/ballchinski/base.png);
 }
 
+/*Replaces disconnected controller image with custom one with ad,
+'cause ya boy is a sell out (:*/
+.edit.ds4.disconnected {
+    background: url(https://xhamrttv.github.io/ps4-disconnected.png);
+}
+
+.edit.disconnected {
+    background: url(https://xhamrttv.github.io/ps4-disconnected.png);
+}
+
+.edit.ds4.disconnected div {
+    display: none;
+}
+
+.edit.disconnected div {
+    display: none;
+}
+
 /*Triggers section requires more code than expected,
 replaces the active triggers. Use strength meter for best results*/
 .edit .ds4 .triggers {
