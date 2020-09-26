@@ -78,11 +78,11 @@ replaces the active triggers. Use strength meter for best results*/
 
 /*Replaces Bumpers with custom assets*/
 .edit .xbox .bumper {
-    background: url(https://xhamrttv.github.io/chunkyfatguy/bumper.gif);
+    background: url(https://xhamrttv.github.io/chunkyfatguy/bumper2.gif);
 }
 
 .edit .bumper {
-    background: url(https://xhamrttv.github.io/chunkyfatguy/bumper.gif);
+    background: url(https://xhamrttv.github.io/chunkyfatguy/bumper2.gif);
 }
 
 .edit .xbox .bumper.pressed {
@@ -128,11 +128,11 @@ replaces the active triggers. Use strength meter for best results*/
 
 /*Start and Select buttons*/
 .edit .xbox .back, .xbox .start {
-    background: url(https://xhamrttv.github.io/chunkyfatguy/start-select.gif);
+    background: url(https://xhamrttv.github.io/chunkyfatguy/start-select2.gif);
 }
 
 .edit .back, .start {
-    background: url(https://xhamrttv.github.io/chunkyfatguy/start-select.gif);
+    background: url(https://xhamrttv.github.io/chunkyfatguy/start-select2.gif);
 }
 
 .edit .xbox .back.pressed, .xbox .start.pressed {
@@ -164,11 +164,11 @@ replaces the active triggers. Use strength meter for best results*/
 /*Input buttons (right). Correctly positions them, and 
 replaces both standard and input*/
 .edit .xbox .button {
-    background: url(https://xhamrttv.github.io/chunkyfatguy/abxy.gif);
+    background: url(https://xhamrttv.github.io/chunkyfatguy/abxy2.gif);
 }
 
 .edit .button {
-    background: url(https://xhamrttv.github.io/chunkyfatguy/abxy.gif);
+    background: url(https://xhamrttv.github.io/chunkyfatguy/abxy2.gif);
 }
 
 .edit .xbox .button.pressed {
@@ -233,22 +233,22 @@ replaces both standard and input*/
 
 /*Replaces sticks with regular and input*/
 .edit .xbox .stick {
-    background: url(https://xhamrttv.github.io/chunkyfatguy/stick.gif);
+    background: url(https://xhamrttv.github.io/chunkyfatguy/stick2.gif);
     background-position: -85px 0;
 }
 
 .edit .stick {
     position: absolute;
-    background: url(https://xhamrttv.github.io/chunkyfatguy/stick.gif);
+    background: url(https://xhamrttv.github.io/chunkyfatguy/stick2.gif);
     background-position: -85px 0;
 }
 
 /*Input buttons (left). Correctly positions them, and 
 replaces both standard and input*/
 .edit .xbox .face {
-    background: url(https://xhamrttv.github.io/chunkyfatguy/dpad.gif);
+    background: url(https://xhamrttv.github.io/chunkyfatguy/dpad2.gif);
 }
 
 .edit .face {
-    background: url(https://xhamrttv.github.io/chunkyfatguy/dpad.gif);
+    background: url(https://xhamrttv.github.io/chunkyfatguy/dpad2.gif);
 }
