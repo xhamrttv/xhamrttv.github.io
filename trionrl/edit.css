@@ -9,11 +9,11 @@
 
 /*Replaces controller base with custom asset*/
 .edit .controller.ds4 {
-    background: url(https://xhamrttv.github.io/trionrl/base.png);
+    background: url(https://xhamrttv.github.io/trionrl/base2.gif);
 }
 
 .controller.edit {
-    background: url(https://xhamrttv.github.io/trionrl/base.png);
+    background: url(https://xhamrttv.github.io/trionrl/base2.gif);
 }
 
 /*Triggers section requires more code than expected,
@@ -132,13 +132,13 @@ replaces the active triggers. Use strength meter for best results*/
 
 /*Input buttons (left)*/
 .edit .face .ds4 {
-    background: url(https://xhamrttv.github.io/trionrl/dpad.png);
+    background: url(https://xhamrttv.github.io/trionrl/dpad2.png);
 }
 
 
 .edit .face {
     position: absolute;
-    background: url(https://xhamrttv.github.io/trionrl/dpad.png);
+    background: url(https://xhamrttv.github.io/trionrl/dpad2.png);
 }
 
 /*Replaces sticks with regular and input*/
@@ -239,7 +239,7 @@ replaces the active triggers. Use strength meter for best results*/
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(https://xhamrttv.github.io/trionrl/face.png);
+    background: url(https://xhamrttv.github.io/trionrl/face2.png);
 }
 
 .edit .button.pressed {
