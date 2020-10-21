@@ -117,14 +117,14 @@ replaces the active triggers. Use strength meter for best results*/
     transform: rotateY(180deg);
 }
 
-/*Replaces Quadrant with custom assets
+/*Replaces Quadrant with custom assets*/
 .edit .xbox .quadrant {
     background: url(https://xhamrttv.github.io/sawedoffmosin/xbox/quadrant.png);
 }
 
 .edit .quadrant {
     background: url(https://xhamrttv.github.io/sawedoffmosin/xbox/quadrant.png);
-}*/
+}
 
 /*Start and Select buttons*/
 .edit .xbox .back, .xbox .start {
