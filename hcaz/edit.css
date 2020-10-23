@@ -1,4 +1,4 @@
-/*hcaz123 Controller  - Updated 10/23/2020
+/*hcaz Controller  - Updated 10/23/2020
 
         Twitter: https://www.twitter.com/xhamr
         Discord: https://discord.gg/qJkFeJA
@@ -7,11 +7,11 @@
 
 /*Replaces controller base with custom asset*/
 .edit.controller.xbox {
-    background: url(https://xhamrttv.github.io/hcaz123/base.png);
+    background: url(https://xhamrttv.github.io/hcaz/base.png);
 }
 
 .controller.edit {
-    background: url(https://xhamrttv.github.io/hcaz123/base.png);
+    background: url(https://xhamrttv.github.io/hcaz/base.png);
 }
 
 /*Replaces disconnected controller image with custom one with ad,
@@ -49,11 +49,11 @@ replaces the active triggers. Use strength meter for best results*/
 }
 
 .edit .xbox .trigger {
-    background: url(https://xhamrttv.github.io/hcaz123/trigger.png);
+    background: url(https://xhamrttv.github.io/hcaz/trigger.png);
 }
 
 .edit .trigger {
-    background: url(https://xhamrttv.github.io/hcaz123/trigger.png);
+    background: url(https://xhamrttv.github.io/hcaz/trigger.png);
 }
 
 .edit .xbox .trigger.left {
@@ -78,11 +78,11 @@ replaces the active triggers. Use strength meter for best results*/
 
 /*Replaces Bumpers with custom assets*/
 .edit .xbox .bumper {
-    background: url(https://xhamrttv.github.io/hcaz123/bumper.png);
+    background: url(https://xhamrttv.github.io/hcaz/bumper.png);
 }
 
 .edit .bumper {
-    background: url(https://xhamrttv.github.io/hcaz123/bumper.png);
+    background: url(https://xhamrttv.github.io/hcaz/bumper.png);
 }
 
 .edit .xbox .bumper.pressed {
@@ -119,20 +119,20 @@ replaces the active triggers. Use strength meter for best results*/
 
 /*Replaces Quadrant with custom assets*/
 .edit .xbox .quadrant {
-    background: url(https://xhamrttv.github.io/hcaz123/quadrant.png);
+    background: url(https://xhamrttv.github.io/hcaz/quadrant.png);
 }
 
 .edit .quadrant {
-    background: url(https://xhamrttv.github.io/hcaz123/quadrant.png);
+    background: url(https://xhamrttv.github.io/hcaz/quadrant.png);
 }
 
 /*Start and Select buttons*/
 .edit .xbox .back, .xbox .start {
-    background: url(https://xhamrttv.github.io/hcaz123/start-select.png);
+    background: url(https://xhamrttv.github.io/hcaz/start-select.png);
 }
 
 .edit .back, .start {
-    background: url(https://xhamrttv.github.io/hcaz123/start-select.png);
+    background: url(https://xhamrttv.github.io/hcaz/start-select.png);
 }
 
 .edit .xbox .back.pressed, .xbox .start.pressed {
@@ -164,11 +164,11 @@ replaces the active triggers. Use strength meter for best results*/
 /*Input buttons (right). Correctly positions them, and 
 replaces both standard and input*/
 .edit .xbox .button {
-    background: url(https://xhamrttv.github.io/hcaz123/abxy.png);
+    background: url(https://xhamrttv.github.io/hcaz/abxy.png);
 }
 
 .edit .button {
-    background: url(https://xhamrttv.github.io/hcaz123/abxy.png);
+    background: url(https://xhamrttv.github.io/hcaz/abxy.png);
 }
 
 .edit .xbox .button.pressed {
@@ -233,22 +233,22 @@ replaces both standard and input*/
 
 /*Replaces sticks with regular and input*/
 .edit .xbox .stick {
-    background: url(https://xhamrttv.github.io/hcaz123/stick.png);
+    background: url(https://xhamrttv.github.io/hcaz/stick.png);
     background-position: -85px 0;
 }
 
 .edit .stick {
     position: absolute;
-    background: url(https://xhamrttv.github.io/hcaz123/stick.png);
+    background: url(https://xhamrttv.github.io/hcaz/stick.png);
     background-position: -85px 0;
 }
 
 /*Input buttons (left). Correctly positions them, and 
 replaces both standard and input*/
 .edit .xbox .face {
-    background: url(https://xhamrttv.github.io/hcaz123/dpad.png);
+    background: url(https://xhamrttv.github.io/hcaz/dpad.png);
 }
 
 .edit .face {
-    background: url(https://xhamrttv.github.io/hcaz123/dpad.png);
+    background: url(https://xhamrttv.github.io/hcaz/dpad.png);
 }
