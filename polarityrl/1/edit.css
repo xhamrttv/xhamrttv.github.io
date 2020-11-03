@@ -7,21 +7,21 @@
 
 /*Replaces controller base with custom asset*/
 .edit.controller.xbox {
-    background: url(https://xhamrttv.github.io/polarityrl/base.png);
+    background: url(https://xhamrttv.github.io/polarityrl/1/base.png);
 }
 
 .controller.edit {
-    background: url(https://xhamrttv.github.io/polarityrl/base.png);
+    background: url(https://xhamrttv.github.io/polarityrl/1/base.png);
 }
 
 /*Replaces disconnected controller image with custom one with ad,
 'cause ya boy is a sell out (:*/
 .edit.xbox.disconnected {
-    background: url(https://xhamrttv.github.io/polarityrl/disconnected.png);
+    background: url(https://xhamrttv.github.io/polarityrl/1/disconnected.png);
 }
 
 .edit.disconnected {
-    background: url(https://xhamrttv.github.io/polarityrl/disconnected.png);
+    background: url(https://xhamrttv.github.io/polarityrl/1/disconnected.png);
 }
 
 .edit.xbox.disconnected div {
@@ -49,11 +49,11 @@ replaces the active triggers. Use strength meter for best results*/
 }
 
 .edit .xbox .trigger {
-    background: url(https://xhamrttv.github.io/polarityrl/trigger.png);
+    background: url(https://xhamrttv.github.io/polarityrl/1/trigger.png);
 }
 
 .edit .trigger {
-    background: url(https://xhamrttv.github.io/polarityrl/trigger.png);
+    background: url(https://xhamrttv.github.io/polarityrl/1/trigger.png);
 }
 
 .edit .xbox .trigger.left {
@@ -78,11 +78,11 @@ replaces the active triggers. Use strength meter for best results*/
 
 /*Replaces Bumpers with custom assets*/
 .edit .xbox .bumper {
-    background: url(https://xhamrttv.github.io/polarityrl/bumper.png);
+    background: url(https://xhamrttv.github.io/polarityrl/1/bumper.png);
 }
 
 .edit .bumper {
-    background: url(https://xhamrttv.github.io/polarityrl/bumper.png);
+    background: url(https://xhamrttv.github.io/polarityrl/1/bumper.png);
 }
 
 .edit .xbox .bumper.pressed {
@@ -119,20 +119,20 @@ replaces the active triggers. Use strength meter for best results*/
 
 /*Replaces Quadrant with custom assets*/
 .edit .xbox .quadrant {
-    background: url(https://xhamrttv.github.io/polarityrl/quadrant.png);
+    background: url(https://xhamrttv.github.io/polarityrl/1/quadrant.png);
 }
 
 .edit .quadrant {
-    background: url(https://xhamrttv.github.io/polarityrl/quadrant.png);
+    background: url(https://xhamrttv.github.io/polarityrl/1/quadrant.png);
 }
 
 /*Start and Select buttons*/
 .edit .xbox .back, .xbox .start {
-    background: url(https://xhamrttv.github.io/polarityrl/start-select.png);
+    background: url(https://xhamrttv.github.io/polarityrl/1/start-select.png);
 }
 
 .edit .back, .start {
-    background: url(https://xhamrttv.github.io/polarityrl/start-select.png);
+    background: url(https://xhamrttv.github.io/polarityrl/1/start-select.png);
 }
 
 .edit .xbox .back.pressed, .xbox .start.pressed {
@@ -164,11 +164,11 @@ replaces the active triggers. Use strength meter for best results*/
 /*Input buttons (right). Correctly positions them, and 
 replaces both standard and input*/
 .edit .xbox .button {
-    background: url(https://xhamrttv.github.io/polarityrl/abxy.png);
+    background: url(https://xhamrttv.github.io/polarityrl/1/abxy.png);
 }
 
 .edit .button {
-    background: url(https://xhamrttv.github.io/polarityrl/abxy.png);
+    background: url(https://xhamrttv.github.io/polarityrl/1/abxy.png);
 }
 
 .edit .xbox .button.pressed {
@@ -233,22 +233,22 @@ replaces both standard and input*/
 
 /*Replaces sticks with regular and input*/
 .edit .xbox .stick {
-    background: url(https://xhamrttv.github.io/polarityrl/stick.png);
+    background: url(https://xhamrttv.github.io/polarityrl/1/stick.png);
     background-position: -85px 0;
 }
 
 .edit .stick {
     position: absolute;
-    background: url(https://xhamrttv.github.io/polarityrl/stick.png);
+    background: url(https://xhamrttv.github.io/polarityrl/1/stick.png);
     background-position: -85px 0;
 }
 
 /*Input buttons (left). Correctly positions them, and 
 replaces both standard and input*/
 .edit .xbox .face {
-    background: url(https://xhamrttv.github.io/polarityrl/dpad.png);
+    background: url(https://xhamrttv.github.io/polarityrl/1/dpad.png);
 }
 
 .edit .face {
-    background: url(https://xhamrttv.github.io/polarityrl/dpad.png);
+    background: url(https://xhamrttv.github.io/polarityrl/1/dpad.png);
 }
