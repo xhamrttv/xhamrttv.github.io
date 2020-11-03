@@ -1,4 +1,4 @@
-/*polarityrl Controller  - Updated --/--/2020
+/*polarityrl Controller  - Updated 11/03/2020
 
         Twitter: https://www.twitter.com/xhamr
         Discord: https://discord.gg/qJkFeJA
@@ -7,21 +7,21 @@
 
 /*Replaces controller base with custom asset*/
 .edit.controller.xbox {
-    background: url(https://xhamrttv.github.io/polarityrl/base.png);
+    background: url(https://xhamrttv.github.io/polarityrl/base-2.png);
 }
 
 .controller.edit {
-    background: url(https://xhamrttv.github.io/polarityrl/base.png);
+    background: url(https://xhamrttv.github.io/polarityrl/base-2.png);
 }
 
 /*Replaces disconnected controller image with custom one with ad,
 'cause ya boy is a sell out (:*/
 .edit.xbox.disconnected {
-    background: url(https://xhamrttv.github.io/polarityrl/disconnected.png);
+    background: url(https://xhamrttv.github.io/polarityrl/disconnected-2.png);
 }
 
 .edit.disconnected {
-    background: url(https://xhamrttv.github.io/polarityrl/disconnected.png);
+    background: url(https://xhamrttv.github.io/polarityrl/disconnected-2.png);
 }
 
 .edit.xbox.disconnected div {
