@@ -1,4 +1,4 @@
-/*RLCSX Controller  - Updated 11/05/2020
+/*RLCSX/xbox Controller  - Updated 11/05/2020
 
         Twitter: https://www.twitter.com/xhamr
         Discord: https://discord.gg/qJkFeJA
@@ -7,21 +7,21 @@
 
 /*Replaces controller base with custom asset*/
 .edit.controller.xbox {
-    background: url(https://xhamrttv.github.io/free/rlcsx/base.gif);
+    background: url(https://xhamrttv.github.io/free/rlcsx/xbox/base.gif);
 }
 
 .edit .controller {
-    background: url(https://xhamrttv.github.io/free/rlcsx/base.gif);
+    background: url(https://xhamrttv.github.io/free/rlcsx/xbox/base.gif);
 }
 
 /*Replaces disconnected controller image with custom one with ad,
 'cause ya boy is a sell out (:*/
 .edit.xbox.disconnected {
-    background: url(https://xhamrttv.github.io/free/rlcsx/disconnected.gif);
+    background: url(https://xhamrttv.github.io/free/rlcsx/xbox/disconnected.gif);
 }
 
 .edit.disconnected {
-    background: url(https://xhamrttv.github.io/free/rlcsx/disconnected.gif);
+    background: url(https://xhamrttv.github.io/free/rlcsx/xbox/disconnected.gif);
 }
 
 .edit.xbox.disconnected div {
@@ -49,11 +49,11 @@ replaces the active triggers. Use strength meter for best results*/
 }
 
 .edit .xbox .trigger {
-    background: url(https://xhamrttv.github.io/free/rlcsx/trigger.png);
+    background: url(https://xhamrttv.github.io/free/rlcsx/xbox/trigger.png);
 }
 
 .edit .trigger {
-    background: url(https://xhamrttv.github.io/free/rlcsx/trigger.png);
+    background: url(https://xhamrttv.github.io/free/rlcsx/xbox/trigger.png);
 }
 
 .edit .xbox .trigger.left {
@@ -78,11 +78,11 @@ replaces the active triggers. Use strength meter for best results*/
 
 /*Replaces Bumpers with custom assets*/
 .edit .xbox .bumper {
-    background: url(https://xhamrttv.github.io/free/rlcsx/bumper.png);
+    background: url(https://xhamrttv.github.io/free/rlcsx/xbox/bumper.png);
 }
 
 .edit .bumper {
-    background: url(https://xhamrttv.github.io/free/rlcsx/bumper.png);
+    background: url(https://xhamrttv.github.io/free/rlcsx/xbox/bumper.png);
 }
 
 .edit .xbox .bumper.pressed {
@@ -119,20 +119,20 @@ replaces the active triggers. Use strength meter for best results*/
 
 /*Replaces Quadrant with custom assets
 .edit .xbox .quadrant {
-    background: url(https://xhamrttv.github.io/free/rlcsx/quadrant.png);
+    background: url(https://xhamrttv.github.io/free/rlcsx/xbox/quadrant.png);
 }
 
 .edit .quadrant {
-    background: url(https://xhamrttv.github.io/free/rlcsx/quadrant.png);
+    background: url(https://xhamrttv.github.io/free/rlcsx/xbox/quadrant.png);
 }*/
 
 /*Start and Select buttons*/
 .edit .xbox .back, .xbox .start {
-    background: url(https://xhamrttv.github.io/free/rlcsx/start-select.png);
+    background: url(https://xhamrttv.github.io/free/rlcsx/xbox/start-select.png);
 }
 
 .edit .back, .start {
-    background: url(https://xhamrttv.github.io/free/rlcsx/start-select.png);
+    background: url(https://xhamrttv.github.io/free/rlcsx/xbox/start-select.png);
 }
 
 .edit .xbox .back.pressed, .xbox .start.pressed {
@@ -164,11 +164,11 @@ replaces the active triggers. Use strength meter for best results*/
 /*Input buttons (right). Correctly positions them, and 
 replaces both standard and input*/
 .edit .xbox .button {
-    background: url(https://xhamrttv.github.io/free/rlcsx/abxy.png);
+    background: url(https://xhamrttv.github.io/free/rlcsx/xbox/abxy.png);
 }
 
 .edit .button {
-    background: url(https://xhamrttv.github.io/free/rlcsx/abxy.png);
+    background: url(https://xhamrttv.github.io/free/rlcsx/xbox/abxy.png);
 }
 
 .edit .xbox .button.pressed {
@@ -233,22 +233,22 @@ replaces both standard and input*/
 
 /*Replaces sticks with regular and input*/
 .edit .xbox .stick {
-    background: url(https://xhamrttv.github.io/free/rlcsx/stick.png);
+    background: url(https://xhamrttv.github.io/free/rlcsx/xbox/stick.png);
     background-position: -85px 0;
 }
 
 .edit .stick {
     position: absolute;
-    background: url(https://xhamrttv.github.io/free/rlcsx/stick.png);
+    background: url(https://xhamrttv.github.io/free/rlcsx/xbox/stick.png);
     background-position: -85px 0;
 }
 
 /*Input buttons (left). Correctly positions them, and 
 replaces both standard and input*/
 .edit .xbox .face {
-    background: url(https://xhamrttv.github.io/free/rlcsx/dpad.png);
+    background: url(https://xhamrttv.github.io/free/rlcsx/xbox/dpad.png);
 }
 
 .edit .face {
-    background: url(https://xhamrttv.github.io/free/rlcsx/dpad.png);
+    background: url(https://xhamrttv.github.io/free/rlcsx/xbox/dpad.png);
 }
