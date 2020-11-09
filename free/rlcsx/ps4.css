@@ -8,21 +8,21 @@
 
 /*Replaces controller base with custom asset*/
 .edit .controller.ds4 {
-    background: url(https://xhamrttv.github.io/free/rlcsx/ps4/base-test.png);
+    background: url(https://xhamrttv.github.io/free/rlcsx/ps4/base.gif);
 }
 
 .controller.edit {
-    background: url(https://xhamrttv.github.io/free/rlcsx/ps4/base-test.png);
+    background: url(https://xhamrttv.github.io/free/rlcsx/ps4/base.gif);
 }
 
 /*Replaces disconnected controller image with custom one with ad,
 'cause ya boy is a sell out (:*/
 .edit.ds4.disconnected {
-    background: url(https://xhamrttv.github.io/ps4-disconnected.png);
+    background: url(https://xhamrttv.github.io/free/rlcsx/ps4/disconnected.gif);
 }
 
 .edit.disconnected {
-    background: url(https://xhamrttv.github.io/ps4-disconnected.png);
+    background: url(https://xhamrttv.github.io/free/rlcsx/ps4/disconnected.gif);
 }
 
 .edit.xbox.disconnected div {
@@ -147,7 +147,7 @@ replaces the active triggers. Use strength meter for best results*/
     background: url(https://xhamrttv.github.io/free/rlcsx/ps4/touchpad.png);
 }
 
-/*Input buttons (left)
+/*Input buttons (left)*/
 .edit .face .ds4 {
     background: url(https://xhamrttv.github.io/free/rlcsx/ps4/dpad.png);
 }
@@ -158,7 +158,7 @@ replaces the active triggers. Use strength meter for best results*/
     background: url(https://xhamrttv.github.io/free/rlcsx/ps4/dpad.png);
 }
 
-/*Replaces sticks with regular and input
+/*Replaces sticks with regular and input*/
 .edit .stick .ds4 {
     background: url(https://xhamrttv.github.io/free/rlcsx/ps4/sticks.png);
 }
@@ -167,7 +167,7 @@ replaces the active triggers. Use strength meter for best results*/
 .edit .stick {
     position: absolute;
     background: url(https://xhamrttv.github.io/free/rlcsx/ps4/sticks.png);
-}*/
+}
 
 /*Replaces Options and Share button's input version*/
 .edit .ds4 .back, .ds4 .start {
