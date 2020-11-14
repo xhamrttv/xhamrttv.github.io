@@ -7,11 +7,11 @@
 */
 
 /*Replaces controller base with custom asset*/
-.edit.controller.ds4 {
+.edit. controller.ds4 {
     background: url(https://xhamrttv.github.io/cropperthebrit/base.png);
 }
 
-.edit.controller {
+.controller.edit{
     background: url(https://xhamrttv.github.io/cropperthebrit/base.png);
 }
 
