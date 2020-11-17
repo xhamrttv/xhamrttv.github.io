@@ -1,4 +1,4 @@
-/*antagonisttitan Controller  - Updated --/--/2020
+/*antagonisttitan Controller  - Updated 11/17/2020
 
         Twitter: https://www.twitter.com/xhamr
         Discord: https://discord.gg/qJkFeJA
@@ -17,11 +17,11 @@
 /*Replaces disconnected controller image with custom one with ad,
 'cause ya boy is a sell out (:*/
 .edit.xbox.disconnected {
-    background: url(https://xhamrttv.github.io/antagonisttitan/xbox-disconnected.png);
+    background: url(https://xhamrttv.github.io/antagonisttitan/disconnected.png);
 }
 
 .edit.disconnected {
-    background: url(https://xhamrttv.github.io/antagonisttitan/xbox-disconnected.png);
+    background: url(https://xhamrttv.github.io/antagonisttitan/disconnected.png);
 }
 
 .edit.xbox.disconnected div {
@@ -117,14 +117,14 @@ replaces the active triggers. Use strength meter for best results*/
     transform: rotateY(180deg);
 }
 
-/*Replaces Quadrant with custom assets
+/*Replaces Quadrant with custom assets*/
 .edit .xbox .quadrant {
     background: url(https://xhamrttv.github.io/antagonisttitan/quadrant.png);
 }
 
 .edit .quadrant {
     background: url(https://xhamrttv.github.io/antagonisttitan/quadrant.png);
-}*/
+}
 
 /*Start and Select buttons*/
 .edit .xbox .back, .xbox .start {
@@ -164,11 +164,11 @@ replaces the active triggers. Use strength meter for best results*/
 /*Input buttons (right). Correctly positions them, and 
 replaces both standard and input*/
 .edit .xbox .button {
-    background: url(https://xhamrttv.github.io/antagonisttitan/abxy.png);
+    background: url(https://xhamrttv.github.io/antagonisttitan/abxy.gif);
 }
 
 .edit .button {
-    background: url(https://xhamrttv.github.io/antagonisttitan/abxy.png);
+    background: url(https://xhamrttv.github.io/antagonisttitan/abxy.gif);
 }
 
 .edit .xbox .button.pressed {
@@ -233,22 +233,22 @@ replaces both standard and input*/
 
 /*Replaces sticks with regular and input*/
 .edit .xbox .stick {
-    background: url(https://xhamrttv.github.io/antagonisttitan/stick.png);
+    background: url(https://xhamrttv.github.io/antagonisttitan/stick.gif);
     background-position: -85px 0;
 }
 
 .edit .stick {
     position: absolute;
-    background: url(https://xhamrttv.github.io/antagonisttitan/stick.png);
+    background: url(https://xhamrttv.github.io/antagonisttitan/stick.gif);
     background-position: -85px 0;
 }
 
 /*Input buttons (left). Correctly positions them, and 
 replaces both standard and input*/
 .edit .xbox .face {
-    background: url(https://xhamrttv.github.io/antagonisttitan/dpad.png);
+    background: url(https://xhamrttv.github.io/antagonisttitan/dpad.gif);
 }
 
 .edit .face {
-    background: url(https://xhamrttv.github.io/antagonisttitan/dpad.png);
+    background: url(https://xhamrttv.github.io/antagonisttitan/dpad.gif);
 }
