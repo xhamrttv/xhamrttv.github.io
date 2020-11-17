@@ -17,11 +17,11 @@
 /*Replaces disconnected controller image with custom one with ad,
 'cause ya boy is a sell out (:*/
 .edit.xbox.disconnected {
-    background: url(https://xhamrttv.github.io/xbox-disconnected.png);
+    background: url(https://xhamrttv.github.io/antagonisttitan/xbox-disconnected.png);
 }
 
 .edit.disconnected {
-    background: url(https://xhamrttv.github.io/xbox-disconnected.png);
+    background: url(https://xhamrttv.github.io/antagonisttitan/xbox-disconnected.png);
 }
 
 .edit.xbox.disconnected div {
@@ -49,11 +49,11 @@ replaces the active triggers. Use strength meter for best results*/
 }
 
 .edit .xbox .trigger {
-    background: url(https://xhamrttv.github.io/antagonisttitan/trigger.png);
+    background: url(https://xhamrttv.github.io/antagonisttitan/trigger.gif);
 }
 
 .edit .trigger {
-    background: url(https://xhamrttv.github.io/antagonisttitan/trigger.png);
+    background: url(https://xhamrttv.github.io/antagonisttitan/trigger.gif);
 }
 
 .edit .xbox .trigger.left {
@@ -78,11 +78,11 @@ replaces the active triggers. Use strength meter for best results*/
 
 /*Replaces Bumpers with custom assets*/
 .edit .xbox .bumper {
-    background: url(https://xhamrttv.github.io/antagonisttitan/bumper.png);
+    background: url(https://xhamrttv.github.io/antagonisttitan/bumper.gif);
 }
 
 .edit .bumper {
-    background: url(https://xhamrttv.github.io/antagonisttitan/bumper.png);
+    background: url(https://xhamrttv.github.io/antagonisttitan/bumper.gif);
 }
 
 .edit .xbox .bumper.pressed {
