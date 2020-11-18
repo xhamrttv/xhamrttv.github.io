@@ -17,11 +17,11 @@
 /*Replaces disconnected controller image with custom one with ad,
 'cause ya boy is a sell out (:*/
 .edit.xbox.disconnected {
-    background: url(https://xhamrttv.github.io/antagonisttitan/disconnected.png);
+    background: url(https://xhamrttv.github.io/antagonisttitan/disconnected.gif);
 }
 
 .edit.disconnected {
-    background: url(https://xhamrttv.github.io/antagonisttitan/disconnected.png);
+    background: url(https://xhamrttv.github.io/antagonisttitan/disconnected.gif);
 }
 
 .edit.xbox.disconnected div {
