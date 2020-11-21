@@ -21,7 +21,7 @@ promotional use only.
 /*BEGIN PS4 Controller Styling*/
 
 /*Replaces controller base with custom asset*/
-.edit .controller.ds4 {
+.edit.controller.ds4 {
     background: url(https://xhamrttv.github.io/squiggz/base.gif);
 }
 
@@ -30,7 +30,7 @@ promotional use only.
 }
 
 /*Replaces disconnected controller image with custom one with ad,
-'cause ya boy is a sell out (:*/
+'cause ya boy is a sell out (:
 .edit.ds4.disconnected {
     background: url(https://xhamrttv.github.io/squiggz/disconnected.gif);
 }
@@ -45,7 +45,7 @@ promotional use only.
 
 .edit.disconnected div {
     display: none;
-}
+}*/
 
 /*Triggers section requires more code than expected,
 replaces the active triggers. Use strength meter for best results*/
