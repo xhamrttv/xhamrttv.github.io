@@ -31,19 +31,19 @@ promotional use only.
 
 /*Replaces disconnected controller image with custom one with ad,
 'cause ya boy is a sell out (:*/
-.edit.xbox.disconnected {
+.edit .xbox .disconnected {
     background: url(https://xhamrttv.github.io/spankorl/disconnected.gif);
 }
 
-.edit.disconnected {
+.edit .disconnected {
     background: url(https://xhamrttv.github.io/spankorl/disconnected.gif);
 }
 
-.edit.xbox.disconnected div {
+.edit .xbox .disconnected div {
     display: none;
 }
 
-.edit.disconnected div {
+.edit .disconnected div {
     display: none;
 }
 
