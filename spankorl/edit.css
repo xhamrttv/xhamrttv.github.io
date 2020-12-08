@@ -35,15 +35,7 @@ promotional use only.
     background: url(https://xhamrttv.github.io/spankorl/disconnected.gif);
 }
 
-.edit.disconnected {
-    background: url(https://xhamrttv.github.io/spankorl/disconnected.gif);
-}
-
 .edit.xbox.disconnected div {
-    display: none;
-}
-
-.edit.disconnected div {
     display: none;
 }
 
