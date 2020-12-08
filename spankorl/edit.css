@@ -1,4 +1,4 @@
-/*spankorl Controller  - Updated --/--/2020
+/*spankorl Controller  - Updated 12/08/2020
 
 Terms and Conditions: No Refunds on digital goods, If you have questions concerning 
 your order please contact us. Your purchase grants you the right to use and display 
@@ -32,11 +32,11 @@ promotional use only.
 /*Replaces disconnected controller image with custom one with ad,
 'cause ya boy is a sell out (:*/
 .edit.xbox.disconnected {
-    background: url(https://xhamrttv.github.io/xbox-disconnected.png);
+    background: url(https://xhamrttv.github.io/spankorl/disconnected.gif);
 }
 
 .edit.disconnected {
-    background: url(https://xhamrttv.github.io/xbox-disconnected.png);
+    background: url(https://xhamrttv.github.io/spankorl/disconnected.gif);
 }
 
 .edit.xbox.disconnected div {
