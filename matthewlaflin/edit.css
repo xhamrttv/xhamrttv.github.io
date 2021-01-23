@@ -32,11 +32,11 @@ promotional use only.
 /*Replaces disconnected controller image with custom one with ad,
 'cause ya boy is a sell out (:*/
 .edit.ds4.disconnected {
-    background: url(https://xhamrttv.github.io/ps4-disconnected.png);
+    background: url(https://xhamrttv.github.io/matthewlaflin/disconnected.gif);
 }
 
 .edit.disconnected {
-    background: url(https://xhamrttv.github.io/ps4-disconnected.png);
+    background: url(https://xhamrttv.github.io/matthewlaflin/disconnected.gif);
 }
 
 .edit.xbox.disconnected div {
